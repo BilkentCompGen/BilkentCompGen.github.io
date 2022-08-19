@@ -1,13 +1,13 @@
 ---
 layout: default
-title: alkan lab / papers
+title: alkan lab / software
 categories:
- - papers
+ - software
 ---
 
-{% for paper in site.categories.papers %}
+{% for paper in site.categories.software %}
 {% capture prev_year %}{{ this_year }}{% endcapture %}
-{% capture this_year %}{{ paper.year }}{% endcapture %}
+{% capture this_year %}{{ software.year }}{% endcapture %}
 
 
 {% if forloop.first %}
@@ -46,11 +46,11 @@ categories:
   <div class="col-lg-4 paperbox">
     <div class="media">
       <div class="media-body">
-        <div class="smallhead mb-1"><a href="{{ paper.url }}" class="off">{{ paper.title }}</a></div>
-        <p class="note">{{ paper.ref }}</p>
+        <div class="smallhead mb-1"><a href="{{ software.url }}" class="off">{{ software.title }}</a></div>
+        <p class="note">{{ software.ref }}</p>
       </div>
-      <a href="{{ paper.url }}">
-        <img class="ml-3" width=100 class="media-object" src="{{ paper.image }}">
+      <a href="{{ software.url }}">
+        <img class="ml-3" width=100 class="media-object" src="{{ software.image }}">
       </a>
     </div>
     <div class="bigspacer"></div>
