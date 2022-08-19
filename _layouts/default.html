@@ -65,13 +65,6 @@
 				</button>
 				<div class="collapse navbar-collapse" id="navbarNav">
 					<ul class="navbar-nav nav-pills ml-auto">
-						{% if page.categories.first == 'blog' %}
-						<li class="nav-link active">
-						{% else %}
-						<li class="nav-link">
-						{% endif %}
-						<a class="mx-1" href="/blog/">blog</a>
-						</li>
 						{% if page.categories.first == 'papers' %}
 						<li class="nav-link active">
 						{% else %}
