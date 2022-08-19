@@ -83,6 +83,12 @@
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
+						<a class="mx-1" href="/software/">support</a></li>
+						{% if page.categories.first == 'support' %}
+						<li class="nav-link active">
+						{% else %}
+						<li class="nav-link">
+						{% endif %}
 						<a class="mx-1" href="/software/">software</a></li>
 						{% if page.categories.first == 'team' %}
 						<li class="nav-link active">
