@@ -1,1 +1,162 @@
-coming soon ...
+---
+layout: default
+title: Alkan lab
+categories:
+ - home
+---
+
+<div class="row">
+	<div class="col-lg-12">
+		<object class="pull-left biglogo" data="/images/logo.svg" type="image/svg+xml"></object>
+		<div class="bigtitle logobox">
+			Bilkent Computational Genomics Research
+		</div>
+	</div>
+</div>
+
+<div class="bigspacer"></div>
+
+<div class="row">
+	<div class="col-lg-12">
+		<div class="smallhead">
+      <p>
+
+      At the Bioinformatics and Computational Genomics Group, we develop combinatorial algorithms to analyze genomic sequence data to discover, genotype, and phase genomic variants with a special focus on structural variation. We are also interested in algorithms for <i>de novo</i> genome assembly, pangenomics, and hardware/software co-design to accelerate computational workloads.
+      </p>
+		</div>
+	</div>
+</div>
+
+<div class="bigspacer"></div>
+<div class="bigspacer"></div>
+
+
+<div class="spacer"></div>
+
+<div class="row">
+	<div class="col-lg-12">
+		<div class="head">
+			<a class="off" href="/papers/">Recent papers</a>
+		</div>
+		<div class="spacer"></div>
+	</div>
+</div>
+
+<div class="row">
+	{% for paper in site.categories.papers limit:4 %}
+	<div class="col-lg-3 reduced-gutter">
+		<div class="pad-left">
+			<div class="note">
+				<i class="fa fa-file-text-o fa-fw"></i>
+				<a class="off" href="{{ paper.url }}">
+				{{ paper.title }}
+				</a>
+			</div>
+			<div class="smallspacer"></div>
+			<div class="smallnote">
+				Posted
+				{{ paper.date | date: "%-d %b %Y" }}
+			</div>
+			<div class="bigspacer"></div>
+		</div>
+	</div>
+	{% endfor %}
+</div>
+
+<!--
+<div class="spacer"></div>
+
+<div class="row">
+	<div class="col-lg-12">
+		<div class="head">
+			<a class="off" href="/projects/">Active projects</a>
+		</div>
+		<div class="spacer"></div>
+	</div>
+</div>
+
+<div class="row">
+	{% for project in site.data.projects limit:4 %}
+	<div class="col-lg-3 reduced-gutter">
+		<div class="pad-left">
+			<div class="note">
+				<i class="fa fa-edit fa-fw"></i>
+				<a class="off" href="{{ project.url }}">
+				{{ project.title }} - {{ project.description }}
+				</a>
+			</div>
+			<div class="smallspacer"></div>
+			<div class="smallnote">
+				Updated
+				<a class="off" href="{{ project.commits.first.url }}">
+				{{ project.commits.first.date | date: "%-d %b %Y" }}
+				</a>
+				by
+				<a class="off" href="{{ project.commits.first.author_url }}">
+				{{ project.commits.first.author_login }}
+				</a>
+			</div>
+			<div class="bigspacer"></div>
+		</div>
+	</div>
+	{% endfor %}
+</div>
+
+-->
+
+<div class="spacer"></div>
+
+<div class="row">
+	<div class="col-lg-12">
+		<div class="head">
+			Misc
+		</div>
+		<div class="spacer"></div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-lg-12 reduced-gutter">
+		<div class="pad-left">
+			<ul class="list-inline">
+				{% for page in site.categories.misc %}
+				<li class="footernav list-inline-item">
+					<i class="fa fa-angle-right"></i> <a class="off" href="{{ page.url }}">{{ page.title }}</a>
+				</li>
+				{% endfor %}
+			</ul>
+		</div>
+		<div class="spacer"></div>
+	</div>
+</div>
+
+<div class="row">
+  <div class="col-lg-12">
+    <div class="float-lg-right" style="vertical-align: bottom; display: table-cell;">
+      <a class="off" href="https://www.bjk.com.tr/">
+        <img height=75 src="/images/logos/logo_bjk_grayscale.png">
+      </a>
+      &nbsp; &nbsp; &nbsp; &nbsp;
+      <a class="off" href="https://www.bilkent.edu.tr/">
+        <img height=75 src="/images/logos/logo_bilkent_grayscale.png">
+      </a>
+      &nbsp; &nbsp; &nbsp; &nbsp;
+      <a class="off" href="https://www.cs.bilkent.edu.tr/">
+        <img height=75 src="/images/logos/logo_bilkent_cs_grayscale.png">
+      </a>
+      &nbsp; &nbsp; &nbsp; &nbsp;
+      <a class="off" href="https://bilimakademisi.org/">
+        <img height=75 src="/images/logos/logo_bilimakademisi_grayscale.png">
+      </a>
+      &nbsp; &nbsp; &nbsp; &nbsp;
+      <a class="off" href="https://www.embo.org/">
+        <img height=75 src="/images/logos/logo_embo_grayscale.png">
+      </a>
+      &nbsp; &nbsp; &nbsp; &nbsp;
+      <a class="off" href="https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en">
+        <img height=75 src="/images/logos/logo_horizoneurope_grayscale.png">
+      </a>
+      &nbsp; &nbsp; &nbsp; &nbsp;
+    </div>
+  </div>
+</div>
