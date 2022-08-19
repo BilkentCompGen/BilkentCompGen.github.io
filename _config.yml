@@ -1,6 +1,11 @@
+# Plugins
+gems:
+- jekyll-sitemap
+safe: false
+
 name: Alkan Lab Research
 description: Combinatorial algorithms, hardware/software co-design, computational genomics from the Alkan lab at the Bilkent University
-url: http://bilkentcompgen.github.io/blotter
+url: http://bilkentcompgen.github.io
 
 markdown: kramdown
 permalink: /:categories/:title/
