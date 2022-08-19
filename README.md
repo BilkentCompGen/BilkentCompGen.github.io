@@ -1,4 +1,4 @@
-# bedford lab research
+# alkan lab research
 
 ## Build site
 
