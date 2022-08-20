@@ -5,56 +5,123 @@ categories:
  - software
 ---
 
-{% for paper in site.categories.software %}
-{% capture prev_year %}{{ this_year }}{% endcapture %}
-{% capture this_year %}{{ software.year }}{% endcapture %}
-
-
-{% if forloop.first %}
-    {% assign counter = 0 %}
-  <div class="row">
-    <div class="col-md-12">
-      <h1>{{ this_year }}</h1>
-<hr style="height:2px;border:none;color:#808088;background-color:#808088;" />    </div>
-  </div>
-  <div class="row">
-  {% elsif this_year != prev_year and this_year > "2012" %}
-    {% assign counter = 0 %}
-  </div>
-  <div class="row">
-    <div class="col-md-12">
-      {% if this_year != "2013" %}
-      <h1>{{ this_year }}</h1>
-      {% else %}
-      <h1>2013 and earlier</h1>
-      {% endif %}
-      <hr style="height:2px;border:none;color:#808088;background-color:#808088;" />
-
-    </div>
-  </div>
-  <div class="row">
-  {% else %}
-    {% assign counter = counter | plus: 1 %}
-    {% assign mod = counter | modulo: 3 %}
-    {% if mod == 0 %}
-
-  </div>
-  <div class="row">
-
-    {% endif %}
-  {% endif %}
-  <div class="col-lg-4 paperbox">
-    <div class="media">
-      <div class="media-body">
-        <div class="smallhead mb-1"><a href="{{ software.url }}" class="off">{{ software.title }}</a></div>
-        <p class="note">{{ software.ref }}</p>
-      </div>
-      <a href="{{ software.url }}">
-        <img class="ml-3" width=100 class="media-object" src="{{ software.image }}">
-      </a>
-    </div>
-    <div class="bigspacer"></div>
-    <div class="spacer"></div>
-      </div>
-{% endfor %}
-  </div>
+        <h3>Official GitHub repository:</h3>
+        <ul>
+          <li><a href="https://github.com/BilkentCompGen">https://github.com/BilkentCompGen</a></li>
+        </ul>
+        <h3>Docker Hub repository</h3>
+        <ul>
+          <li><a href="https://hub.docker.com/u/alkanlab/">https://hub.docker.com/u/alkanlab/</a></li>
+        </ul>
+        <h3>Next-generation sequencing</h3>
+        <ul>
+          <li><a style="font-weight: bold;" href="https://github.com/BilkentCompGen/mrfast">mrFAST</a><span
+              style="font-weight: bold;">:</span> Read mapper developed
+            specifically for structural variation and segmental duplication
+            detection using the Illumina platform. Supports small indel
+            alignments. </li>
+          <li> <a style="font-weight: bold;" href="http://mrsfast.sourceforge.net">mrsFAST</a><span
+              style="font-weight: bold;">:</span> Similar to mrFAST, Hamming
+            distance only. </li>
+          <li> <a style="font-weight: bold;" href="https://github.com/BilkentCompGen/drfast">drFAST</a><span
+              style="font-weight: bold;">:</span> Read mapper for di-base
+            color-space reads generated with the SOLiD platform. </li>
+          <li><a style="font-weight: bold;" href="https://github.com/BilkentCompGen/sirfast">sirFAST</a><span
+              style="font-weight: bold;">:</span> Read mapper for short
+            interrupted reads generated with the Complete Genomics platform. </li>
+          <li><span style="font-weight: bold;"> <a href="https://github.com/BilkentCompGen/mrcanavar">mrCaNaVaR</a>:
+            </span>Read depth analysis method to characterize segmental
+            duplications and predict absolute copy numbers.<span style="font-weight: bold;"><br />
+            </span> </li>
+          <li> <span style="font-weight: bold;"><a href="http://variationhunter.sourceforge.net">VariationHunter</a>:</span>
+            Structural variation calling algorithm using read pair mapping
+            information including suboptimal alignments. (deprecated and
+            replaced by <a href="https://github.com/BilkentCompGen/tardis">TARDIS</a>)</li>
+          <li> <span style="font-weight: bold;"><a href="http://splitread.sourceforge.net">SPLITREAD</a>:
+            </span>Detection of structural variants and indels from genome and
+            exome sequencing data. </li>
+          <li> <span><strong><a href="http://novelseq.sourceforge.net">NovelSeq</a></strong>:
+            </span>Novel sequence insertion discovery framework. (deprecated and
+            replaced by <a href="https://github.com/vpc-ccg/pamir">Pamir</a>) </li>
+          <li><span style="font-weight: bold;"><a href="https://github.com/sfu-compbio/scalce">SCALCE</a>:
+            </span>Tool to efficiently compress FASTQ files.</li>
+          <li><strong><a href="https://github.com/BilkentCompGen/valor">VALOR</a>:</strong>
+            Discover inversions using long range information.</li>
+          <li><strong><a href="https://github.com/BilkentCompGen/tardis">TARDIS</a>:</strong>
+            Toolkit for automatic and rapid discovery of structural variants.</li>
+          <li><strong><a href="https://github.com/vpc-ccg/pamir">Pamir</a></strong>:
+            Discovery and genotyping of novel sequence insertions in many
+            sequenced individuals.</li>
+          <li><a href="https://github.com/BilkentCompGen/lava"><strong>LaVa</strong></a>:
+            Large Variation discovery using hybrid sequence data.</li>
+          <li><strong><a href="https://github.com/BilkentCompGen/valor">VALOR2</a></strong>:
+            Discover inversions using long range information -- linked-read
+            version.</li>
+          <li><strong><a href="https://github.com/BilkentCompGen/GateKeeper">GateKeeper</a></strong>:
+            FPGA design for accelerating pre-alignment in DNA short read
+            mapping.</li>
+          <li><strong><a href="https://github.com/BilkentCompGen/GateKeeper-GPU">GateKeeper-GPU</a></strong>:
+            GPGPU design for accelerating pre-alignment in DNA short read
+            mapping.</li>
+          <li><strong><a href="https://github.com/BilkentCompGen/MAGNET">MAGNET</a></strong>:
+            FPGA-based filtering strategy with high accuracy across different
+            edit distance thresholds.</li>
+          <li><strong><a href="https://github.com/CMU-SAFARI/Shouji">Shouji</a></strong>:
+            Fast and efficient computation of banded sequence alignment.</li>
+          <li><a href="https://github.com/CMU-SAFARI/SneakySnake"><strong>SneakySnake</strong></a>:
+            Approximate alignment computation on CPU, GPU, and FPGA by reducing
+            alignment problem to single net routing problem.</li>
+          <li><a href="https://github.com/BilkentCompGen/hercules"><strong>Hercules</strong></a>:
+            Profile HMM-based hybrid error correction algorithm for long reads.</li>
+          <li><a href="https://github.com/CMU-SAFARI/Apollo"><strong>Apollo</strong></a>:
+            Profile HMM-based genome assembly polishing tool.</li>
+          <li><a href="https://github.com/vpc-ccg/rinslr"><strong>RinsLR</strong></a>:
+            Discovery of mid range novel sequence insertions using long-read
+            sequencing.</li>
+        </ul>
+        <h3>RNA analysis<br />
+        </h3>
+        <ul>
+          <li> <span style="font-weight: bold;">taveRNA suite</span></li>
+          <ul>
+            <li><span style="font-weight: bold;"><a href="http://compbio.cs.sfu.ca/taverna/interna">inteRNA</a>:
+              </span>Algorithm that predicts the joint secondary structure of
+              two RNA sequences.<span style="font-weight: bold;"><br />
+              </span></li>
+            <li><span style="font-weight: bold;"><a href="http://compbio.cs.sfu.ca/taverna/alterna">alteRNA</a>:
+              </span>Densityfold algorithm that<span style="font-weight: bold;">
+              </span>minimizes a linear combination of energy density and the
+              total free energy.  </li>
+            <li><span style="font-weight: bold;"><a href="http://compbio.cs.sfu.ca/taverna/pruna">pRuNA</a>:
+              </span>RNA interaction search engine. pRuNA is a sequence based
+              pruning technique that eliminates a significant fraction of a non
+              coding RNA (ncRNA) data set and retains only the most likely ncRNA
+              candidates for forming a stable joint structure with the query
+              mRNA.<br />
+            </li>
+            <li><a href="http://compbio.cs.sfu.ca/taverna/pirna"><span style="font-weight: bold;">piRNA:</span></a><span
+                style="font-weight: bold;"> </span>RNA-RNA interaction
+              partition function algorithm to predict the joint partition
+              function, equilibrium concentration, ensemble energy, and melting
+              temperature for two RNA sequences.<a href="http://compbio.cs.sfu.ca/taverna/pirna"><br />
+              </a></li>
+            <li><span style="font-weight: bold;"><a href="http://compbio.cs.sfu.ca/taverna/smyrna">smyRNA</a>:
+              </span>Novel <span style="font-style: italic;">ab initio</span>
+              non-coding RNA finder.<span style="font-weight: bold;"><br />
+              </span></li>
+          </ul>
+        </ul>
+        <h3>Others</h3>
+        <ul>
+          <li><span style="font-weight: bold;"><a href="https://github.com/BilkentCompGen/mam">MaM</a>:
+            </span>A software tool that processes and manipulates multiple
+            alignments of genomic sequences. </li>
+          <li><a href="https://github.com/BilkentCompGen/repeatnet"><span style="font-weight: bold;">RepeatNet:</span></a>
+            An <span style="font-style: italic;">ab initio</span> centromeric
+            sequence detection algorithm.</li>
+          <li><a href="https://github.com/vpc-ccg/sedef/"><strong>SEDEF</strong></a>:
+            Characterization of segmental duplications within genome assemblies.</li>
+          <li><a href="://github.com/0xTCG/biser"><strong>BISER</strong></a>:
+            Characterization of segmental duplication evolutionary structure
+            across  genome assemblies.</li>
+        </ul>
