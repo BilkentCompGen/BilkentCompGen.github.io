@@ -1,23 +1,23 @@
 ---
 layout: member
-title: 
-position: 
-handle: 
+title: Nermin Çelik
+position: Postdoctoral Fellow
+handle: nermin.celik
 twitter: 
-github: 
+github: N-Celik
 scholar: 
-image: /images/team/
+image: /images/team/stickfig.png
 cv: https://github.com/_cv.pdf
-email: 
+email: nermin.celik@gmail.com
 ---
 
 I am ...
 
 ### Education
 
-- Ph.D., Computer Science, 2005
-  - [Case Western Reserve University](https://engineering.case.edu/computer-and-data-sciences), Cleveland, OH, USA
-- B. Sc., Computer Engineering and Information Science, 2000
-  - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
+- Ph.D., Bioinformatics, 2017  
+  - [Monash University](https://www.monash.edu/), Melbourne, Australia_  
+- B.Sc., Computer Science, Biochemistry, and Mathematics, 2004  
+  -[La Trobe University](https://www.latrobe.edu.au/), Melbourne, Australia  
 
 
