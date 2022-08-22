@@ -19,11 +19,11 @@ alumni: true
   - Thesis: ["A cryptocurrency incentivized voluntary grid computing platform for DNA read alignment"](https://tez.yok.gov.tr/UlusalTezMerkezi/tezDetay.jsp?id=GBP9_s_CeuzDAn-CaOlOmQ&no=-nn8esht_gQgWS7bJ_mYEw).
   
 - B. Sc., Computer Engineering, 2016 
-  - [Bilkent University](), Ankara, Turkey
+  - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
 
-### Publication
+### Publications
 
 - [**Realizing the potential of blockchain technologies in genomics**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6120626/) **Halil Ibrahim Ozercan**, Atalay Mert Ileri, Erman Ayday, and Can Alkan. *Genome Res.* 2018 Sep; 28(9): 1255–1263. 
 
 ### Post Alkan Lab
- is now employed as a Software Engineer at Google in London, UK.
+ Halil is now employed as a Software Engineer at Google in London, UK.
