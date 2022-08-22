@@ -1,0 +1,130 @@
+---
+layout: default
+categories:
+ - support
+---
+
+{% for test in site.data.support %}
+	{% if test.title == page.support %}
+		{% assign support = test %}
+	{% endif %}
+{% endfor %}
+
+<div class="row">
+	<div class="col-lg-12">
+		<div class="bigtitle titlebox">
+      <nav aria-label="breadcrumb">
+  			<ol class="breadcrumb">
+  			{% assign crumbs = page.title | breadcrumb_array %}
+  			{% for crumb in crumbs %}
+  				{% assign name = crumb | split: '/' | last %}
+  				{% for page in site.pages %}
+  					{% if page.title == crumb %}
+  						{% assign url = page.url %}
+  					{% endif %}
+  				{% endfor %}
+  				{% if crumb == page.title %}
+  				<li class="breadcrumb-item active">
+            {{ name }}
+          </li>
+  				{% else %}
+  				<li class="breadcrumb-item">
+            <a class="off" href="{{ url | replace: 'index.html', '' }}">{{ name }}</a>
+          </li>
+  				{% endif %}
+  			{% endfor %}
+  			</ol>
+      </nav>
+    </div>
+		<p>
+		<div class="head">
+			{{ support.description }}
+		</div>
+	</div>
+</div>
+
+<div class="bigspacer"></div>
+
+<div class="row">
+	<div class="col-lg-3">
+		<div class="bigspacer"></div>
+		<div class="smallhead">
+			Source code
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fa fa-cog fa-fw"></i>
+			<a class="off" href="https://github.com/{{ support.repo }}">github.com/{{ support.repo | replace: "/", "/<wbr>" | replace: "_", "_<wbr>" }}</a>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="smallhead">
+			Contributors
+		</div>
+		<div class="pad-left note">
+			{% for contributor in support.contributors %}
+			<div class="smallspacer"></div>
+			<div>
+				<a class="off" href="{{ contributor.url }}">
+    			<img class="pull-left avatar" src="{{ contributor.avatar }}">
+    			<div class="handlebox" style="padding-left:5px;"">
+    				{{ contributor.login }}
+    			</div>
+ 				</a>
+ 			</div>
+ 			{% endfor %}
+		</div>
+		<div class="bigspacer"></div>
+		<div class="smallhead">
+			Latest commits
+		</div>
+		<div class="pad-left smallnote">
+			<ul class="list-unstyled">
+			{% for commit in support.commits %}
+				<div class="smallspacer"></div>
+				<li>
+					<i class="fa fa-check-square-o fa-fw"></i>
+					<a class="off" href="{{ commit.url }}">
+					{{ commit.date | date_to_string }} - <span class="text-gray">{{ commit.message | escape }}</span>
+					</a>
+				</li>
+			{% endfor %}
+			</ul>
+		</div>
+		<div class="spacer"></div>
+
+		{% for page in site.pages %}
+			{% if page.support == support.title %}
+			<!-- {% increment pagecount %} -->
+			{% endif %}
+		{% endfor %}
+
+		{% if pagecount > 1 %}
+		<div class="smallhead">
+			Pages
+		</div>
+		<div class="pad-left smallnote">
+			<ul class="list-unstyled">
+			{% for page in site.pages %}
+				{% if page.support == support.title %}
+				<div class="smallspacer"></div>
+				<li>
+					<a class="off" href="{{ page.url | replace: 'index.html', '' }}">
+					{{ page.title | replace: '/', ' / ' | replace: support.title, '<i class="fa fa-folder-open-o"></i> ' }}
+					</a>
+				</li>
+				{% endif %}
+			{% endfor %}
+			</ul>
+		</div>
+		<div class="spacer"></div>
+		{% endif %}
+
+	</div>
+	<div class="col-lg-8">
+		<div class="post">
+			<p>
+			{{ content }}
+		</div>
+	</div>
+	<div class="col-lg-1"></div>
+</div>
