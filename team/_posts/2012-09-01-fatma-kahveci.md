@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Fatma Kahveci
-position: M.Sc. & Ph. Candidate
+position: M.Sc. & Ph.D. Candidate
 handle: fatma.balci
 github: fatmakahveci
 twitter: cheburashkaF
