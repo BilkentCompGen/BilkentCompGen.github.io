@@ -7,7 +7,7 @@ github: halilozercan
 twitter: halilozercan
 scholar: 
 image: /images/team/holosko.jpg
-linkedin: linkedin.com/in/halilozercan
+linkedin: halilozercan
 cv: 
 alumni: true
 ---
