@@ -1,35 +1,131 @@
----
-layout: support
-title: alkan lab / support
-categories:
- - support
----
-
-{% for support. in site.data.support.s %}
-
-    {% cycle 'add rows': '<div class="row">', '', '' %}
-		<div class="col-md-4 support.box">
-			<div class="head">
-				<a href="{{ support..url }}" class="off">{{ support..title }}</a>
-			</div>
-			<div class="smallspacer"></div>
-			<div class="note">
-				<a href="{{ support..url }}" class="off">{{ support..description }}</a>
-			</div>
-			<div class="smallspacer"></div>
-			<div class="smallnote">
-				Updated
-				<a class="off" href="{{ support..commits.first.url }}">
-				{{ support..commits.first.date | date: "%-d %b %Y" }}
-				</a>
-				by
-				<a class="off" href="{{ support..commits.first.author_url }}">
-				{{ support..commits.first.author_login }}
-				</a>
-			</div>
-			<div class="bigspacer"></div>
-			<div class="spacer"></div>
-		</div>
-    {% cycle 'close rows': '', '', '</div>' %}
-{% endfor %}
-{% cycle 'close rows': '', '</div>', '</div>' %}	
+     <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
+    <meta name="keywords" content="your,keywords,goes,here" />
+    <link rel="stylesheet" type="text/css" href="variant.css" media="screen,projection"
+      title="Variant Portal" />
+    <title>alkan lab / support</title>
+  </head>
+  <body>   
+        
+        <h3>Grants</h3>
+        <p><br />
+        </p>
+        <p><strong>Current</strong></p>
+        <ul>
+          <li>Horizon Europe EIC Pathfinder <a href="http://www.biopim.eu/">101047160</a>,
+            2022-2026</li>
+          <ul>
+            <li>Title: Processing-in-memory architectures and programming
+              libraries for bioinformatics algorithms (BioPIM)</li>
+            <li>Coordinator: Can Alkan</li>
+            <li>Team Leaders: Onur Mutlu (ETH Zürich), Rayan Chikhi (Institut
+              Pasteur), Dominique Lavenier (CNRS), Abu Sebastian (IBM Zürich),
+              Ran Ginosar (Technion), Remy Cimadomo (UPMEM), Leonid Yavits
+              (Bar-Ilan).</li>
+            <li>Goal: Leveraging the emerging processing-in-memory (PIM)
+              technologies to enable powerful edge computing.</li>
+          </ul>
+          <li>Afyon Health Sciences University Scientific Research Project (<a href="support-asbu.html">20-TEMATIK-004</a>),
+            2021-2022</li>
+          <ul>
+            <li>Title: Developing rapid diagnostic kit for sepsis (Sepsi-Fast)</li>
+            <li style="margin: 0px; padding: 0px;"> PI: Nurullah Okumuş</li>
+            <li style="margin: 0px; padding: 0px;">Co-PI: Can Alkan, Urartu
+              Şeker, Serdar Ceylaner</li>
+            <li style="margin: 0px; padding: 0px;">Goal: Determining antibiotic
+              resistance and susceptibility in newborn sepsis cases</li>
+          </ul>
+        </ul>
+        <p><strong>Past<br />
+          </strong></p>
+        <ul>
+          <li>European Molecular Biology Organization Installation Grant (<a href="support-embo-ig.html">IG-2521</a>),
+            2013-2019</li>
+          <ul>
+            <li>Title: Development and application of computational methods to
+              analyze next generation sequence data to characterize both normal
+              and disease causing variation, and build <span style="font-style: italic;">de
+                novo</span> genome assemblies<br />
+            </li>
+            <li>PI: Can Alkan</li>
+            <li>Goal: Analysis of biological sequences generated with the
+              next-gen sequencing platforms.</li>
+          </ul>
+        </ul>
+        <ul>
+          <li>Scientific and Technical Research Council of Turkey (<a href="support-tubitak1001-115e596.html">TÜBİTAK-1001-115E596</a>),
+            2016-2019</li>
+          <ul>
+            <li>Title: BacGenTrack – An integrated system for Bacterial Genome
+              Tracking using high throughput sequencing technology: from
+              identification to visualization</li>
+            <li>PI: Can Alkan and Joao Andre Carriço</li>
+            <li>Goal: Developing new algorithms for the field of molecular
+              epidemiology.<br />
+            </li>
+          </ul>
+        </ul>
+        <ul>
+          <li>Scientific and Technical Research Council of Turkey (<a href="support-tubitak1001-215e172.html">TÜBİTAK-1001-215E172</a>),
+            2016-2018</li>
+        </ul>
+        <ul>
+          <ul>
+            <li>Title: Algorithms for structural variation discovery using
+              hybrid sequencing technologies and library preparation protocols.</li>
+            <li>PI: Can Alkan</li>
+            <li>Goal: Discovery and characterization of structural variants
+              using multiple sequencing platforms, linked-reads, and read clouds</li>
+          </ul>
+        </ul>
+        <ul>
+          <li>The Science Academy, Turkey, Young Investigator Award (BAGEP),
+            2013-2014</li>
+          <ul>
+            <li>PI: Can Alkan</li>
+          </ul>
+          <li>United States of America National Institutes of Health (R01 <a href="support-HG006004.html">HG006004</a>),
+            2011-2015<br />
+          </li>
+          <ul>
+            <li>Title: Novel algorithms and hardware designs for ultra-fast
+              next-gen sequence analysis</li>
+            <li>PI: Onur Mutlu</li>
+            <li>Co-PI: Can Alkan</li>
+            <li>Goal: Developing specialized hardware architectures to
+              accelerate mapping reads generated with the high throughput
+              sequencing platforms.</li>
+          </ul>
+          <li>European Union Marie Curie Actions Career Integration Grant (<a href="support-mc-cig.html">PCIG10-GA-2011-303772</a>),
+            2012-2016</li>
+          <ul>
+            <li>Title: Integrated approaches for genomic variation discovery
+              using high throughput sequencing<br />
+              <h4> </h4>
+            </li>
+            <li>PI: Can Alkan</li>
+            <li>Goal: Developing novel combinatorial algorithms to
+              comprehensively and quickly discover genomic variation.</li>
+          </ul>
+          <li>Scientific and Technical Research Council of Turkey (<a href="support-tubitak1001-112e135.html">TÜBİTAK-1001-112E135</a>),
+            2012-2015</li>
+          <ul>
+            <li>Title: Development and application of novel genome assembly
+              algorithms that use multiple data sources</li>
+            <li>PI: Can Alkan</li>
+            <li>Goal: Developing assembly algorithms to more reliably construct
+              <span style="font-style: italic;">de novo</span> genome assemblies
+              using data from multiple sources.</li>
+          </ul>
+          <ul>
+          </ul>
+        </ul>
+        <div align="center"><img alt="NIH" src="images/NIHlogo.jpg" /><img alt="FP7-MC"
+            src="images/fp7-mariecurie.png" /><img alt="EMBO-IG" src="images/EMBO_ig_logo.jpg" /><img
+            src="images/bilimakademisi.png" alt="BAGEP" title="Bilim Akademisi" /><br />
+        </div>
+        <br />
+      </div>
+  </body>
+</html>
