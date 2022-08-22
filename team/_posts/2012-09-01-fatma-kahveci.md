@@ -6,6 +6,7 @@ handle: fatma.balci
 github: fatmakahveci
 twitter: cheburashkaF
 scholar: Icdr4p0AAAAJ&hl=en
+orcid: 0000-0003-3096-1753
 image: /images/team/fatma.jpeg
 website: https://www.fatmakahveci.com/
 linkedin: fatma-kahveci
