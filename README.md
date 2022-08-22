@@ -1,5 +1,7 @@
 # alkan lab research
 
+This repo is forked from [Trevor Bedford](https://github.com/blab/blotter)'s repository.
+
 ## Build site
 
 To build the website locally, clone the repo with:
