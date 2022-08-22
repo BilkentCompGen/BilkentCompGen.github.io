@@ -48,10 +48,24 @@ layout: default
 		<div class="bigspacer"></div>
 		{% endif %}
 		{% if member.linkedin %}
+		<div class="smallhead">
+			LinkedIn
+		</div>
 		<div class="pad-left note">
 			<div class="smallspacer"></div>
 			<i class="fa fa-linkedin fa-fw"></i>
 			<a class="off" href="https://linkedin.com/in/{{ member.linkedin }}">{{ member.linkedin }}</a>
+		</div>
+		<div class="bigspacer"></div>
+		{% endif %}
+		{% if member.instagram %}
+		<div class="smallhead">
+			Instagram
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fa fa-instagram fa-fw"></i>
+			<a class="off" href="https://instagram.com/{{ member.instagram }}">{{ member.instagram }}</a>
 		</div>
 		<div class="bigspacer"></div>
 		{% endif %}
