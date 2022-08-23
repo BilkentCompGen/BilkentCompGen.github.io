@@ -1,16 +1,29 @@
 ---
 layout: member
 title: Marzieh Eslami Rasekh
-position: M.Sc. 
-handle: 
-github: 
-scholar: 
+position: M.Sc.
+handle: marzie
+github: marzie-rasekh
+scholar: TcRS0DkAAAAJ
 image: /images/team/marzie.jpg
-cv: 
+linkedin: mzrasekh
+orcid: 0000-0003-0046-158X
+email: marzie.rasekh@gmail.com
 alumni: true
 ---
 
 ### Education
+- PhD, Bioinformatics, 2021
+  - [Boston University](https://www.bu.edu/bioinformatics), Boston, MA, USA
+
+- M.Sc., Computer Engineering, 2013
+  - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
+
+- B.Sc., IT Engineering, 2009
+  - [University of Isfahan](http://ui.ac.ir), Esfahan, Iran
+
 
 ### Post Alkan Lab
- is now employed as a .
+ is now employed as a Bioinformatics Scientist at [Illumina](http://www.illumina.com)
+
+
