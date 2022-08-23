@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Marzieh Eslami Rasekh
+title: Marzie Eslami Rasekh
 position: M.Sc.
 handle: marzie
 github: marzie-rasekh
