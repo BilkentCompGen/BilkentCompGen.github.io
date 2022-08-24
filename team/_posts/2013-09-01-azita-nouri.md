@@ -4,8 +4,8 @@ title: Azita Nouri
 position: M.Sc. 
 handle: 
 twitter:
-github: 
-scholar: 
+github: AzitaN
+scholar: B9i5yzIAAAAJ
 cv: 
 website: 
 linkedin: 
@@ -18,12 +18,16 @@ alumni: true
 ---
 
 ### Education
-Ph.D. Computer Science 
-	Rutgers University, USA
-M.Sc. Computer Engineering
-	Bilkent University, Iran
-B. Sc., Computer Engineering 
-	Sharif University, Iran
+
+- Ph.D. Computer Science, 2016 - present 
+ - [Rutgers University](https://www.cs.rutgers.edu/), Piscataway, NJ, United States
+
+- M.Sc. Computer Engineering, Spring 2016
+ - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
+
+- B. Sc., Computer Engineering,  2011
+ - [Sharif University of Technology](http://ce.sharif.edu/), Tehran, Iran
 
 ### Post Alkan Lab
- is now Ph.D. candidate at Rutgers University
+
+Azita is now a Ph.D. Candidate at Rutgers University.
