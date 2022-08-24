@@ -24,6 +24,7 @@ alumni: true
 
 - M.Sc. Computer Engineering, Spring 2016
  - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
+ - Thesis: ["Read mapping methods optimized for multiple GPGPUs"](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=cbOXH84ZayrLjc0tI-QXKm313zgDPsXWtY4hu-zFKttUPjEhkljul_iHa_DlIvfC).
 
 - B. Sc., Computer Engineering,  2011
  - [Sharif University of Technology](http://ce.sharif.edu/), Tehran, Iran

@@ -19,6 +19,7 @@ alumni: true
 
 - M.Sc., Computer Engineering, 2013
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
+  - Thesis: ["Algorithms for the discovery of large genomic inversions using pooled clone sequencing"](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=WBc656i315e2eV6-EZV1ooV_x-fK_ozzhurjEwHA502baVGhJKe1YH21K9cb9yTg).
 
 - B.Sc., IT Engineering, 2009
   - [University of Isfahan](http://ui.ac.ir), Esfahan, Iran
