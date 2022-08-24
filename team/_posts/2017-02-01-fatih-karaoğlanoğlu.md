@@ -4,7 +4,6 @@ title: Fatih Karaoğlanoğlu
 position: M.Sc. 
 handle: fkaraoglanoglu
 scholar: 
-cv: 
 website: 
 linkedin: 
 instagram:
@@ -26,4 +25,4 @@ cv:
 
 ### Post Alkan Lab
 
-Fatih is now a Ph.D. student at [Simon Fraser University](http://www.cs.bilkent.edu.tr). See his [LinkedIn Profile](https://www.linkedin.com/in/fatih-karao%C4%9Flano%C4%9Flu-10ab0194/).
+Fatih is now a Ph.D. student at [Simon Fraser University](http://www.cs.bilkent.edu.tr).
