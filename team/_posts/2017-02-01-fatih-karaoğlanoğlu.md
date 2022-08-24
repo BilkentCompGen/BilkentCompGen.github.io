@@ -2,10 +2,16 @@
 layout: member
 title: Fatih Karaoğlanoğlu
 position: M.Sc. 
-handle: fatihkaraoglanoglu
+handle: fkaraoglanoglu
+scholar: 
+cv: 
+website: 
+linkedin: 
+instagram:
+orcid: 
+email: 
 github: f0t1h
 twitter: fkaraoglan_cs
-scholar: 
 image: /images/team/fatihk.jpg
 alumni: true
 cv: 

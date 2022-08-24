@@ -3,11 +3,17 @@ layout: member
 title: 
 position: 
 handle: 
-twitter: 
+twitter:
 github: 
 scholar: 
+cv: 
+website: 
+linkedin: 
+instagram:
+orcid: 
+email: 
 image: /images/team/
-cv: https://github.com/_cv.pdf
+cv: 
 email: 
 ---
 

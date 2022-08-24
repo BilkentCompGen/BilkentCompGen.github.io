@@ -3,10 +3,16 @@ layout: member
 title: Fatemeh Hasiri
 position: Summer Intern
 handle: fatemeh
+twitter:
 github: 
 scholar: 
-image: /images/team/fhasiri.jpg
 cv: 
+website: 
+linkedin: 
+instagram:
+orcid: 
+email: 
+image: /images/team/fhasiri.jpg
 alumni: true
 ---
 
@@ -19,4 +25,5 @@ alumni: true
 ### Post Alkan Lab
 
 Fatemeh obtained her M.Sc. from [Simon Fraser University](http://www.cs.sfu.ca). She is now employed as a Software Engineer at [Microsoft](http://www.microsoft.com). See her [LinkedIn Profile](https://www.linkedin.com/in/fatemeh-hasiri-7043279b/).
+
 

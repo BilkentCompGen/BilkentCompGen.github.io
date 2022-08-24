@@ -3,10 +3,16 @@ layout: member
 title: Serhat Kıyak
 position: Undergraduate Volunteer
 handle: 
+twitter:
 github: 
 scholar: 
-image: /images/team/serhat.jpg
 cv: 
+website: 
+linkedin: 
+instagram:
+orcid: 
+email: 
+image: /images/team/serhat.jpg
 alumni: true
 ---
 

@@ -1,10 +1,16 @@
 ---
 layout: member
-title: 
-position: 
+title: Naisila Puka
+position: Introduction to Research Student
 handle: 
+twitter:
 github: 
 scholar: 
+website: 
+linkedin: 
+instagram:
+orcid: 
+email: 
 image: /images/team/
 cv: 
 alumni: true

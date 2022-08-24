@@ -1,12 +1,18 @@
 ---
 layout: member
 title: 
-position: 
+position: M.Sc.
 handle: 
+twitter:
 github: 
 scholar: 
-image: /images/team/
 cv: 
+website: 
+linkedin: 
+instagram:
+orcid: 
+email: 
+image: /images/team/
 alumni: true
 ---
 

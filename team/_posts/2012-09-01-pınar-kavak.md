@@ -3,10 +3,16 @@ layout: member
 title: Pınar Kavak
 position: Ph.D. 
 handle: 
+twitter:
 github: 
 scholar: 
-image: /images/team/pinarkavak.jpg
 cv: 
+website: 
+linkedin: 
+instagram:
+orcid: 
+email: 
+image: /images/team/pinarkavak.jpg
 alumni: true
 ---
 

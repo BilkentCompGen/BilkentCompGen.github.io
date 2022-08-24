@@ -1,13 +1,18 @@
 ---
 layout: member
-title: 
-position: 
+title: Malavi Sengupta
+position: Postdoctoral Fellow
 handle: 
-twitter: 
+twitter:
 github: 
 scholar: 
-image: /images/team/
-cv: https://github.com/_cv.pdf
+website: 
+linkedin: 
+instagram:
+orcid: 
+email: 
+image: /images/team/malavi.jpg
+cv: 
 email: 
 ---
 

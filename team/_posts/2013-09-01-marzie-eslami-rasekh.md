@@ -13,6 +13,7 @@ alumni: true
 ---
 
 ### Education
+
 - PhD, Bioinformatics, 2021
   - [Boston University](https://www.bu.edu/bioinformatics), Boston, MA, USA
 
@@ -24,6 +25,13 @@ alumni: true
 
 
 ### Post Alkan Lab
- Marzie is now employed as a Bioinformatics Scientist at [Illumina](http://www.illumina.com) where she works with the [Dragen Platform](https://www.illumina.com/products/by-type/informatics-products/dragen-bio-it-platform.html) team on methods to detect structural variation in the human genome.
+
+Marzie is now employed as a Bioinformatics Scientist at [Illumina](http://www.illumina.com) where she works with the [Dragen Platform](https://www.illumina.com/products/by-type/informatics-products/dragen-bio-it-platform.html) team on methods to detect structural variation in the human genome.
+
+### Publications at Alkan Lab
+
+[**VALOR2: characterization of large-scale structural variants using linked-reads**](https://www.ncbi.nlm.nih.gov/pubmed/32192518). Fatih Karaoglanoglu\*, Camir Ricketts\*, Ezgi Ebren, **Marzieh Eslami Rasekh**, Iman Hajirasouliha\*, Can Alkan\*. _Genome Biology_, 21 (1): 72, 2020.
+
+[**Discovery of large genomic inversions using long range information**](https://www.ncbi.nlm.nih.gov/pubmed/28073353). **Marzieh Eslami Rasekh**, Giorgia Chiatante, Mattia Miroballo, Joyce Tang, Mario Ventura, Chris T. Amemiya, Evan E. Eichler, Francesca Antonacci\*, Can Alkan\*. _BMC Genomics_, Jan 10;18(1):65, 2017.
 
 
