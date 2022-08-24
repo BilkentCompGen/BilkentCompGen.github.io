@@ -3,7 +3,7 @@ layout: member
 title: Malavi Sengupta
 position: Postdoctoral Fellow
 handle: malavi
-twitter: @malavi_evolbio
+twitter: malavi_evolbio
 github: malavi-sengupta
 scholar: 
 website: 
