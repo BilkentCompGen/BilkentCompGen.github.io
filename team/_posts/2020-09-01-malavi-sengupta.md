@@ -2,7 +2,7 @@
 layout: member
 title: Malavi Sengupta
 position: Postdoctoral Fellow
-handle: 
+handle: malavi
 twitter: @malavi_evolbio
 github: malavi-sengupta
 scholar: 
@@ -10,13 +10,12 @@ website:
 linkedin: 
 instagram: mariposa_morena
 orcid: 0000-0003-1857-9279
-email: malavi@evolbio.mpg.de
 image: /images/team/malavi.jpg
 cv: 
 email: malavi@unam.bilkent.edu.tr
 ---
 
-I am ...
+I am a Sancar Fellow, working on the salt water and alkali water adaptation of A. tarichi.
 
 ### Education
 
