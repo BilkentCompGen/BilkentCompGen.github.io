@@ -2,13 +2,13 @@
 layout: member
 title: Azita Nouri
 position: M.Sc. 
-handle: 
+handle: azita
 twitter:
 github: AzitaN
 scholar: B9i5yzIAAAAJ
 cv: 
 website: 
-linkedin: https://www.linkedin.com/in/azita-nouri-36012a181/
+linkedin: azita-nouri-36012a181/
 instagram:
 orcid: 
 email: azita.nouri@rutgers.edu
