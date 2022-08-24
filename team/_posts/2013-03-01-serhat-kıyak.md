@@ -2,13 +2,13 @@
 layout: member
 title: Serhat Kıyak
 position: Undergraduate Volunteer
-handle: 
+handle: serhatkiyak
 twitter:
-github: 
+github: serhatkiyak
 scholar: 
 cv: 
 website: 
-linkedin: 
+linkedin: serhat-k-ab516252
 instagram:
 orcid: 
 email: 
@@ -18,5 +18,10 @@ alumni: true
 
 ### Education
 
+- B. Sc., Computer Engineering, 2010 - 2014 
+  - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
+
 ### Post Alkan Lab
- is now employed as a .
+
+Serhat was an undergraduate volunteer between  Spring 2013 - 2014. He is now employed as a Senior Software Engineer at [Microsoft](http://www.microsoft.com).
+

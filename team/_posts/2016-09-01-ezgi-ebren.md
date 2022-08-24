@@ -12,7 +12,7 @@ linkedin:
 instagram:
 orcid: 
 email: 
-image: /images/team/ezgiebre.jpeg
+image: /images/team/ezgiebren.jpeg
 cv: 
 alumni: true
 ---

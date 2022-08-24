@@ -2,13 +2,13 @@
 layout: member
 title: Vineet Bhakhar
 position: Summer Intern
-handle: 
-twitter:
-github: 
+handle: vbhakhar
+twitter: vineetbhakhar
+github: vineetbhakhar
 scholar: 
 cv: 
 website: 
-linkedin: 
+linkedin: vineetbhakhar
 instagram:
 orcid: 
 email: 
@@ -19,5 +19,9 @@ alumni: true
 
 ### Education
 
+- B. Tech., Biotechnology, 2015_  
+ - [IIT Guwahati](http://www.iitg.ac.in/biotech/), India. 
+
 ### Post Alkan Lab
- is now employed as a .
+
+Vineet was an intern in Summer 2014. He is now employed as a Software Engineer at [Fi](https://fi.money/).
