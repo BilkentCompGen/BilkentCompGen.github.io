@@ -8,7 +8,7 @@ github:
 scholar: 
 cv: 
 website: 
-linkedin: 
+linkedin: fatemeh-hasiri-7043279b
 instagram:
 orcid: 
 email: 
@@ -19,11 +19,9 @@ alumni: true
 ### Education
 
 - B. Sc., Computer Science, 2015  
- - [Amirkabir University of Technology](https://aut.ac.ir/), Tehran, Iran  
+  - [Amirkabir University of Technology](https://aut.ac.ir/), Tehran, Iran  
 
 
 ### Post Alkan Lab
 
-Fatemeh obtained her M.Sc. from [Simon Fraser University](http://www.cs.sfu.ca). She is now employed as a Software Engineer at [Microsoft](http://www.microsoft.com). See her [LinkedIn Profile](https://www.linkedin.com/in/fatemeh-hasiri-7043279b/).
-
-
+Fatemeh obtained her M.Sc. from [Simon Fraser University](http://www.cs.sfu.ca). She is now employed as a Software Engineer at [Microsoft](http://www.microsoft.com).

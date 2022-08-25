@@ -1,7 +1,7 @@
 ---
 layout: member
 title: 
-position: Introduction to Research Student
+position: M.Sc. Student
 handle: 
 twitter:
 github: 
@@ -20,9 +20,7 @@ I am ...
 
 ### Education
 
-- Ph.D., Computer Science, 2005
-  - [Case Western Reserve University](https://engineering.case.edu/computer-and-data-sciences), Cleveland, OH, USA
-- B. Sc., Computer Engineering and Information Science, 2000
-  - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
+- B. Sc., Computer Engineering and Information Science, 2022
+  - [Konya Technical University](https://www.ktun.edu.tr/en/Birim/Hakkimizda?brm=7mL9IUtl9lsvYJ1yQpEWVw%3D%3D), Konya, Turkey
 
 
