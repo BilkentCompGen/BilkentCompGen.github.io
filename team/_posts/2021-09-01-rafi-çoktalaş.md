@@ -1,15 +1,15 @@
 ---
 layout: member
-title: 
-position: 
-handle: 
-twitter:
-github: 
-scholar: 
-website: 
-linkedin: 
-instagram:
-orcid: 
+title: Rafi Çoktalaş
+position: M.Sc. Student
+handle: rafi.coktalas
+twitter: -
+github: RafiCoktalas
+scholar: -
+website: -
+linkedin: rafi-coktalas
+instagram: raficoktalas
+orcid: 0000-0001-5349-1286
 email: 
 image: /images/team/rafi.jpeg
 cv: 
