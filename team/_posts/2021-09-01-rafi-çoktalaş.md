@@ -12,7 +12,7 @@ image: /images/team/rafi.jpeg
 cv: 
 ---
 
-I am ...
+I am a master's student studying on structural variance discovery.
 
 ### Education
 
@@ -20,5 +20,3 @@ I am ...
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
 - B. Sc., Computer Engineering, 2021
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
-
-
