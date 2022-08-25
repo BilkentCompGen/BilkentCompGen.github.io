@@ -16,9 +16,9 @@ I am ...
 
 ### Education
 
-- Ph.D., Computer Science, 2005
-  - [Case Western Reserve University](https://engineering.case.edu/computer-and-data-sciences), Cleveland, OH, USA
-- B. Sc., Computer Engineering and Information Science, 2000
+- M. Sc, Computer Science, Fall 2021 - Today
+  - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
+- B. Sc., Computer Engineering and Information Science, 2021
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
 
 
