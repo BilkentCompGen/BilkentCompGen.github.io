@@ -12,5 +12,8 @@ image: /images/team/celaltrk.png
 
 ### Education
 - Undergraduate Student, Computer Engineering, Bilkent University, 2021-2025.
+
+
+
 ### Post Alkan Lab
 Celal S. Türkmen is now employed as a Undergraduate Volunteer.
