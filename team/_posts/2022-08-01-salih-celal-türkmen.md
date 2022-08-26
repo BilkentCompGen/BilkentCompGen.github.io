@@ -2,17 +2,12 @@
 layout: member
 title: Celal S. Türkmen
 position: Undergraduate Volunteer
-handle: 
-twitter:
 github: celaltrk
-scholar: 
-website: 
 linkedin: celalturkmen
 instagram: celalcs
 orcid: 0000-0002-4970-0548
 email: salih.turkmen@ug.bilkent.edu.tr
 image: /images/team/celaltrk.png
-cv: 
 ---
 
 ### Education
