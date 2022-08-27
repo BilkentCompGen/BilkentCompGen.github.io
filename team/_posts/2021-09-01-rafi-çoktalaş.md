@@ -12,11 +12,11 @@ image: /images/team/rafi.jpeg
 cv: 
 ---
 
-I am a master's student studying on structural variance discovery.
+I am a master's student studying on structural variation discovery.
 
 ### Education
 
-- M. Sc., Computer Engineering, Fall 2021 - Today
+- M. Sc., Computer Engineering, Fall 2021 - present
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
 - B. Sc., Computer Engineering, 2021
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey

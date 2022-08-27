@@ -13,5 +13,7 @@ image: /images/team/celaltrk.png
 Celal S. Türkmen is now employed as a Undergraduate Volunteer.
 
 ### Education
-- Undergraduate Student, Computer Engineering, Bilkent University, 2021-2025.
+
+- B.Sc., Computer Engineering, 2021 - present.
+  - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
 

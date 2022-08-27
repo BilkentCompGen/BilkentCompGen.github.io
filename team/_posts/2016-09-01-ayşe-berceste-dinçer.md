@@ -2,22 +2,27 @@
 layout: member
 title: Ayşe Berceste Dinçer
 position: Introduction to Research Student
-handle: 
+handle: BercesteDincer
 twitter:
-github: 
-scholar: 
+github: BercesteDincer
+scholar: F4Zv3pwAAAAJ
 cv: 
-website: 
+website: https://bercestedincer.github.io/
 linkedin: 
 instagram:
 orcid: 
 email: 
 image: /images/team/stickfig.png
-cv: 
 alumni: true
 ---
 
 ### Education
 
+- M. Sc., Computer Science, 2019
+  - [University of Washington](https://cs.washington.edu/), Seattle, WA, United States
+- B. Sc., Computer Engineering, 2017
+  - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
+
 ### Post Alkan Lab
- is now employed as a .
+
+Berceste is now a Ph.D. candidate at the [University of Washington](https://cs.washington.edu/).
