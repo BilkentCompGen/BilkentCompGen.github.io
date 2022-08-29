@@ -18,7 +18,7 @@ alumni: true
 
 ### Education
 
-### Post Alkan Lab
+### After Alkan Lab
  is now employed as a .
  
 

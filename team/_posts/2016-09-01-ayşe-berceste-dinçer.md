@@ -23,6 +23,6 @@ alumni: true
 - B. Sc., Computer Engineering, 2017
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
 
-### Post Alkan Lab
+### After Alkan Lab
 
 Berceste is now a Ph.D. candidate at the [University of Washington](https://cs.washington.edu/).

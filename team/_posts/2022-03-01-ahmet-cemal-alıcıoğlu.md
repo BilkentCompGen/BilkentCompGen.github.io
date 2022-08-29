@@ -21,6 +21,6 @@ alumni: true
 - B.Sc., Computer Engineering, 2022
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
 
-### Post Alkan Lab
+### After Alkan Lab
 
 Cemal is now a M.Sc. student in Department of Computer Science at the [University of Freiburg](https://www.informatik.uni-freiburg.de/start_iif-en?set_language=en).

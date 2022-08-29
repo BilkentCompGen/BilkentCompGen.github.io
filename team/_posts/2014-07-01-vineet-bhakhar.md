@@ -22,6 +22,6 @@ alumni: true
 - B. Tech., Biotechnology, 2015_  
  - [IIT Guwahati](http://www.iitg.ac.in/biotech/), India. 
 
-### Post Alkan Lab
+### After Alkan Lab
 
 Vineet was an intern in Summer 2014. He is now employed as a Software Engineer at [Fi](https://fi.money/).

@@ -34,6 +34,6 @@ alumni: true
 *Fatma Kahveci contributed to the structural variation analyses.*
 
 
-### Post Alkan Lab
+### After Alkan Lab
 
 Fatma has received her M.Sc. degree from Bilkent University and then continued her Ph.D. studies. During her M.Sc., she worked on read depth bias correction in exome sequencing data, and her PhD. project was on MLST profile creation workflow for bacterial species, in collaboration with [Dr. Joao Carriço](https://jacarrico.github.io/). Unfortunately she left the program in 2021. 

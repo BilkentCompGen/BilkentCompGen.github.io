@@ -22,6 +22,6 @@ alumni: true
   - [Amirkabir University of Technology](https://aut.ac.ir/), Tehran, Iran  
 
 
-### Post Alkan Lab
+### After Alkan Lab
 
 Fatemeh obtained her M.Sc. from [Simon Fraser University](http://www.cs.sfu.ca). She is now employed as a Software Engineer at [Microsoft](http://www.microsoft.com).

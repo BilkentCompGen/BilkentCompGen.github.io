@@ -24,6 +24,6 @@ alumni: true
 
 - [**Realizing the potential of blockchain technologies in genomics**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6120626/). **Halil Ibrahim Ozercan**, Atalay Mert Ileri, Erman Ayday, and Can Alkan. *Genome Res.* 2018 Sep; 28(9): 1255–1263. 
 
-### Post Alkan Lab
+### After Alkan Lab
 
  Halil is now employed as a Software Engineer at [Google](http://www.google.com) in London, UK.

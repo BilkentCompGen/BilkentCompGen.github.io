@@ -25,7 +25,7 @@ alumni: true
   - [University of Isfahan](http://ui.ac.ir), Esfahan, Iran
 
 
-### Post Alkan Lab
+### After Alkan Lab
 
 Marzie is now employed as a Bioinformatics Scientist at [Illumina](http://www.illumina.com) where she works with the [Dragen Platform](https://www.illumina.com/products/by-type/informatics-products/dragen-bio-it-platform.html) team on methods to detect structural variation in the human genome.
 

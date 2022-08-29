@@ -29,6 +29,6 @@ alumni: true
 - B. Sc., Computer Engineering
   - [Sharif University of Technology](http://ce.sharif.edu/), Tehran, Iran
 
-### Post Alkan Lab
+### After Alkan Lab
 
 Azita is now a Ph.D. Candidate at Rutgers University.

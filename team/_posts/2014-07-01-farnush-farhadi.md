@@ -23,6 +23,6 @@ alumni: true
 - B. Sc., Computer Engineering, 2015
   - [Sharif University of Technology](http://ce.sharif.edu/), Tehran, Iran
 
-### Post Alkan Lab
+### After Alkan Lab
 
 Farnush was an intern during Summer 2014. She then completed her studies at the Sharif University and then obtained her M.Sc. degree in Bioinformatics from the University of British Columbia. She is now a Machine Learning Product Engineer at [Layer 6 AI](https://layer6.ai/).

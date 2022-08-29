@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Baraa Orabi
-position: Undegraduate Volunteer
+position: Undergraduate Volunteer
 handle: baraaorabi
 github: baraaorabi
 scholar: _ov7gR0AAAAJ
@@ -20,7 +20,7 @@ alumni: true
 - B.Sc., Computer Engineering, 2017 
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
 
-### Post Alkan Lab
+### After Alkan Lab
 
 Baraa is now a Ph.D. candidate in Department of Computer Science at the [University of British Columbia](https://www.cs.ubc.ca/). He is a member of [Faraz Hach lab](https://hachlab.org/). 
 
