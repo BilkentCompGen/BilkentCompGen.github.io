@@ -7,16 +7,16 @@ twitter:
 github: kleazambaku
 scholar: 
 website: 
-linkedin: klea-zambaku
+linkedin: klea-zambaku-88992b199
 instagram:
 orcid: 
 email: 
-image: /images/team/klea.jpg
+image: /images/team/klea.JPG
 cv: 
 email: k.zambaku@gmail.com
 ---
 
-I am ...
+I am currently a M. Sc. student at [Bilkent University](http://www.cs.bilkent.edu.tr/).
 
 ### Education
 
