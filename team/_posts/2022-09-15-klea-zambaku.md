@@ -11,7 +11,7 @@ linkedin: klea-zambaku-88992b199
 instagram:
 orcid: 
 email: 
-image: /images/team/klea.JPG
+image: /images/team/klea.jpg
 cv: 
 email: k.zambaku@gmail.com
 ---
