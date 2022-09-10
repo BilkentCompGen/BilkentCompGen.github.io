@@ -22,7 +22,7 @@ I am currently a M. Sc. student at [Bilkent University](http://www.cs.bilkent.ed
 
 - M.Sc., Computer Engineering, Fall 2022 - Present 
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey 
-- B. Sc., Computer Engineering, 2022
+- B.Sc., Computer Engineering, 2022
   - [Konya Technical University](https://www.ktun.edu.tr/en/Birim/Hakkimizda?brm=7mL9IUtl9lsvYJ1yQpEWVw%3D%3D), Konya, Turkey
 
 
