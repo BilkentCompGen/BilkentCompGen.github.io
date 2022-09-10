@@ -11,7 +11,7 @@ linkedin:
 instagram:
 orcid: 
 email: 
-image: /images/team/
+image: /images/team/klea.JPG
 cv: 
 email: 
 ---
