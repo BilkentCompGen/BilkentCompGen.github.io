@@ -8,7 +8,7 @@ github: zulal-b
 scholar: Zülal Bingöl
 cv: 
 website: 
-linkedin: Zülal Bingöl
+linkedin: zulal-bingol
 instagram:
 orcid: 0000-0002-2828-9665
 email: 
