@@ -1,10 +1,10 @@
 ---
 layout: member
-title: 
+title: Meryem Banu Cavlak
 position: Undergraduate Volunteer
 handle: 
 twitter:
-github: 
+github: banucavlak
 scholar: 
 website: 
 linkedin: 
