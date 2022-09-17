@@ -1,21 +1,19 @@
 ---
 layout: member
-title: 
-position: Introduction to Research Student
+title: Akmuhammet Ashyralyyev
+position: Undergraduate Volunteer
 handle: 
-twitter:
-github: 
-scholar: 
+github: akmami
 website: 
-linkedin: 
-instagram:
-orcid: 
-email: 
-image: /images/team/
+linkedin: akmami
+email: akmuhammet@ug.bilkent.edu.tr
+image: /images/team/akmuhammet.jpg
 cv: 
 ---
 
+I am a senior Computer Science student who is curious about anything interesting.
+
 ### Education
 
-### After Alkan Lab
- is now employed as a .
+- B. Sc., Computer Engineering, 2018-present
+  - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
