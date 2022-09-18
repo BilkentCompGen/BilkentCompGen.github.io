@@ -12,7 +12,7 @@ linkedin: mealser
 instagram:
 orcid: 
 email: alserm@ethz.ch
-image: /images/team/alser.jpg
+image: /images/team/alser.png
 cv: 
 alumni: true
 ---
