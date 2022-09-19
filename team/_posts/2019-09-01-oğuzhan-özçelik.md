@@ -1,28 +1,26 @@
 ---
 layout: member
-title: 
+title: Oguzhan Ozcelik
 position: Undergraduate Volunteer
 handle: 
 twitter:
-github: 
+github: ozc0
 scholar: 
 website: 
-linkedin: 
-instagram:
+linkedin: oguzhan-ozcelik-0151
+instagram: ouzanozcelik
 orcid: 
-email: 
+email: oguzhanozcelik0151@gmail.com
 image: /images/team/oozcelik.jpg
 cv: 
-email: 
+alumni: true
 ---
 
-I am ...
+I am a senior year computer science student at Bilkent University right now (as of September 2022). I am interested in algorithms & data structures and I have been doing competitive programming for years, or I used to do... I advanced to ICPC World Finals in 2021 which was held in Moscow. In 2022 summer, I was a part of Alkanlab London gang (there are a lot of people from Alkanlab there as I have heard of) where I did an internship at Meta. Other than serious stuff, I love chocolates, sleep, basketball and music (you may find me a bit "keko" but I am a big fan of arabesk :D)
 
 ### Education
 
-- Ph.D., Computer Science, 2005
-  - [Case Western Reserve University](https://engineering.case.edu/computer-and-data-sciences), Cleveland, OH, USA
-- B. Sc., Computer Engineering and Information Science, 2000
+- B. Sc., Computer Science, 2018-2023 (expected)
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
 
 
