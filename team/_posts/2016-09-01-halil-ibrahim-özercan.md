@@ -15,7 +15,7 @@ alumni: true
   
 - M.Sc., Computer Engineering, Spring, 2019
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey 
-  - Thesis: ["A cryptocurrency incentivized voluntary grid computing platform for DNA read alignment"](https://tez.yok.gov.tr/UlusalTezMerkezi/tezDetay.jsp?id=GBP9_s_CeuzDAn-CaOlOmQ&no=-nn8esht_gQgWS7bJ_mYEw).
+  - Thesis: ["A cryptocurrency incentivized voluntary grid computing platform for DNA read alignment"](http://repository.bilkent.edu.tr/handle/11693/52494).
   
 - B. Sc., Computer Engineering, 2016 
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey

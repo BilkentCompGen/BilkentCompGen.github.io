@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Oguzhan Ozcelik
+title: Oğuzhan Özçelik
 position: Undergraduate Volunteer
 handle: 
 twitter:

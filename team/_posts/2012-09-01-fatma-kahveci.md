@@ -21,7 +21,7 @@ alumni: true
   
 - M.Sc., Computer Engineering, Spring 2014 
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey 
-  - Thesis: ["Bias correction in finding copy number variation with using read depth-based methods in exome sequencing data"](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=48XPj7KKQhKUgntkUiKO3MaNdCXIRCl5dQp3j0gOFI-kQcJrhgZ0kDt9HKwO8HVW).
+  - Thesis: ["Bias correction in finding copy number variation with using read depth-based methods in exome sequencing data"](http://repository.bilkent.edu.tr/handle/11693/16866).
   
 - B. Sc., Mathematics, 2012 
   - [TOBB University of Economy and Technology](http://mat.etu.edu.tr/en), Ankara, Turkey
@@ -36,4 +36,4 @@ alumni: true
 
 ### After Alkan Lab
 
-Fatma has received her M.Sc. degree from Bilkent University and then continued her Ph.D. studies. During her M.Sc., she worked on read depth bias correction in exome sequencing data, and her PhD. project was on MLST profile creation workflow for bacterial species, in collaboration with [Dr. Joao Carriço](https://jacarrico.github.io/). Unfortunately she left the program in 2021. 
+Fatma has received her M.Sc. degree from Bilkent University and then continued her Ph.D. studies. During her M.Sc., she worked on read depth bias correction in exome sequencing data, and her PhD. project was on MLST profile creation workflow for bacterial species, in collaboration with [Dr. Joao Carriço](https://jacarrico.github.io/). Fatma left the program in 2021. 
