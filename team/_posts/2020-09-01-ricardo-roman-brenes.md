@@ -13,7 +13,7 @@ linkedin: ricardo-roman-brenes
 email: ricardo@bilkent.edu.tr
 alumni: false
 ---
-
+![](./ricardo_dna.png)
 ### Education
 
 - Ph.D. Student, Computer Engineering, Fall 2020 - today
