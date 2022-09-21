@@ -10,8 +10,8 @@ website:
 linkedin: 
 instagram:
 orcid: 
-email: 
-image: /images/team/
+email: gamzeguliter@gmail.com
+image: /images/team/gamze.JPG
 cv: 
 alumni: true
 ---
