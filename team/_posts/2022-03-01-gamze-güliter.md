@@ -13,10 +13,10 @@ orcid:
 email: gamzeguliter@gmail.com
 image: /images/team/gamze.JPG
 cv: 
-alumni: true
+alumni: false
 ---
 
 ### Education
 
 ### After Alkan Lab
- is now employed as a .
+ is now employed as a ML intern and still voluntering in Alkan Lab . 
