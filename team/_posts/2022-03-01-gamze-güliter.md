@@ -1,14 +1,14 @@
 ---
 layout: member
-title: 
+title: Gamze Güliter
 position: Introduction to Research Student
-handle: 
+handle: gamzeguliter 
 twitter:
-github: 
+github: gamzeguliter
 scholar: 
 website: 
-linkedin: 
-instagram:
+linkedin: elif-gamze-güliter
+instagram: gguliter
 orcid: 
 email: gamzeguliter@gmail.com
 image: /images/team/gamze.JPG
@@ -16,7 +16,10 @@ cv:
 alumni: false
 ---
 
-### Education
- Bilkent University Computer Science Department
+Gamze is now employed as an intern at [Vivoo](https://vivoo.io/) and still voluntering in Alkan Lab. 
  
- Gamze is now employed as a ML intern and still voluntering in Alkan Lab. 
+### Education
+- B. Sc., Computer Engineering, 2018-present
+  - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
+   
+
