@@ -1,6 +1,7 @@
 ---
 layout: member
-title: Ricardo Roman-Brenes
+title: Ricardo Roman-Brenes ![](./ricardo_dna.png)
+
 position: Ph.D. Student
 handle: handle?
 github: rica01
