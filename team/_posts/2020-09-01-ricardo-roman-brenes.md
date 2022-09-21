@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Ricardo Roman-Brenes ![](./ricardo_dna.png)
+title: Ricardo Roman-Brenes ![txt](ricardo_dna.png)
 
 position: Ph.D. Student
 handle: handle?
@@ -13,7 +13,7 @@ linkedin: ricardo-roman-brenes
 email: ricardo@bilkent.edu.tr
 alumni: false
 ---
-![](./ricardo_dna.png)
+![txt](ricardo_dna.png)
 ### Education
 
 - Ph.D. Student, Computer Engineering, Fall 2020 - today
