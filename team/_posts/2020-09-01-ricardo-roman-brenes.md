@@ -13,7 +13,7 @@ linkedin: ricardo-roman-brenes
 email: ricardo@bilkent.edu.tr
 alumni: false
 ---
-Hi. <img style="height:100px;" src="https://github.com/BilkentCompGen/BilkentCompGen.github.io/blob/master/images/team/ricardo_dna.png?raw=true"/>
+<img style="height:100px;" src="https://github.com/BilkentCompGen/BilkentCompGen.github.io/blob/master/images/team/Ricardo_Roman_Brenes_dna.png?raw=true"/>
 
 ### Education
 
