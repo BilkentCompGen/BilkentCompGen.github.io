@@ -15,11 +15,12 @@ layout: default
 
 <div class="row">
 	<div class="col-lg-3">
+		<div class="smallhead">
 		{% if member.image %}
 		<img style="width: 220px;" class="pull-left pad-right media-object d-none d-sm-block" src="{{ member.image }}">
 		{% endif %}
-	</div>
-	<div class="col-lg-3">
+		</div>
+			
 		<div class="bigspacer"></div>
 		
 		{% if member.cv %}
