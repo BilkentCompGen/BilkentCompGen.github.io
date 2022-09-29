@@ -12,3 +12,13 @@ categories:
 		</div>
 	</div>
 </div>
+
+
+<div class="pad-left note">
+	
+	{% for misc in site.categories.misc %}
+    				<div class="head mb-1"><a href="{{ misc.url }}" class="off">{{ misc.title }}</a></div>
+	{% endfor %}
+	
+</div>
+<div class="bigspacer"></div>
