@@ -13,7 +13,7 @@ orcid: [Klea Zambaku](https://orcid.org/0000-0001-7951-7720)
 email: 
 image: /images/team/klea.JPG
 cv: 
-email: k.zambaku@gmail.com
+email: klea.zambaku@bilkent.edu.tr
 ---
 
 I am currently a M. Sc. student at [Bilkent University](http://www.cs.bilkent.edu.tr/).
