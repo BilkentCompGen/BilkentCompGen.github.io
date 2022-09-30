@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Gamze Güliter
-position: Introduction to Research Student
+position: Undergraduate Volunteer
 handle: gamzeguliter 
 twitter:
 github: gamzeguliter
@@ -16,7 +16,7 @@ cv:
 alumni: false
 ---
 
-Gamze is now employed as an intern at [Vivoo](https://vivoo.io/) and still voluntering in Alkan Lab. 
+Gamze joined Alkan LAb as an Introdoction to Research Student in Spring 2002. She is now employed as an intern at [Vivoo](https://vivoo.io/) and still voluntering in Alkan Lab. 
  
 ### Education
 - B. Sc., Computer Engineering, 2018-present
