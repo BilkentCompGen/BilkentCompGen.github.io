@@ -9,7 +9,7 @@ scholar:
 website: 
 linkedin: klea-zambaku-88992b199
 instagram:
-orcid: 
+orcid: [Klea Zambaku](https://orcid.org/0000-0001-7951-7720)
 email: 
 image: /images/team/klea.JPG
 cv: 
