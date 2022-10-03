@@ -1,15 +1,15 @@
 ---
 layout: member
-title: 
+title: Klea Zambaku
 position: M.Sc. Student
-handle: 
+handle: klea
 twitter:
 github: kleazambaku
 scholar: 
 website: 
 linkedin: klea-zambaku-88992b199
 instagram:
-orcid: [Klea Zambaku](https://orcid.org/0000-0001-7951-7720)
+orcid: 0000-0001-7951-7720
 email: 
 image: /images/team/klea.JPG
 cv: 
