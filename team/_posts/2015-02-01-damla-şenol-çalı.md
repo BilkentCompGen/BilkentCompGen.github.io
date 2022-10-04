@@ -6,10 +6,10 @@ handle:
 twitter: damlasenolcali
 github: damlasenolcali
 scholar: iYXWCzQAAAAJ
-cv: https://damlasenolcali.github.io/files/resume_damlasenolcali.pdf
+cv: 
 website: https://damlasenolcali.github.io/
 linkedin: damlasenolcali
-instagram: damlaacali
+instagram: 
 orcid: 0000-0002-3665-6285
 email: damlasenolcali@gmail.com
 image: /images/team/dsenol.jpg
