@@ -11,7 +11,7 @@ image: /images/team/akmuhammet.jpg
 cv: 
 ---
 
-I am a senior Computer Science student who is curious about anything interesting.
+<img style="height:100px;" src="https://github.com/BilkentCompGen/BilkentCompGen.github.io/blob/master/images/team/AA_sq_dna.png?raw=true"/> I am a senior Computer Science student who is curious about anything interesting.
 
 ### Education
 
