@@ -11,7 +11,7 @@ cv: https://github.com/_cv.pdf
 email: nermin.celik@gmail.com
 ---
 
-<img style="height:100px;" src="https://github.com/BilkentCompGen/BilkentCompGen.github.io/blob/master/images/team/NC_sq_dna.png?raw=true"/> I am a postdoc working on sepsis detection.
+I am a postdoc working on sepsis detection.
 
 ### Education
 
