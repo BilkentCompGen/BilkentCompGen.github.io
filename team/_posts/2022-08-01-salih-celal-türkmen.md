@@ -10,7 +10,7 @@ email: salih.turkmen@ug.bilkent.edu.tr
 image: /images/team/celaltrk.png
 ---
 
-Celal S. Türkmen is now employed as a Undergraduate Volunteer.
+<img style="height:100px;" src="https://github.com/BilkentCompGen/BilkentCompGen.github.io/blob/master/images/team/CST_sq_dna.png?raw=true"/> Celal S. Türkmen is now employed as a Undergraduate Volunteer.
 
 ### Education
 
