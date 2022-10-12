@@ -24,7 +24,7 @@ alumni: true
 ### After Alkan Lab
  Meryem Banu Cavlak is still a member of Alkan Lab in her heart and her spirit still wanders around the EA building. More formally though, she is an M.Sc. student in the [SAFARI Research Group](https://safari.ethz.ch/) at [ETH Zurich](https://ethz.ch/en.html), advised by [Prof. Onur Mutlu](https://people.inf.ethz.ch/omutlu/). Her current research interests span everything including bioinformatics and computer architecture. 
  
- ### Publications
+### Publications
 
 - [**ApHMM: Accelerating Profile Hidden Markov Models for Fast and Energy-Efficient Genome Analysis.**](https://arxiv.org/abs/2207.09765) Can Firtina, Kamlesh Pillai, Gurpreet S. Kalsi, Bharathwaj Suresh, Damla Senol Cali, Jeremie Kim, Taha Shahroodi, **Meryem Banu Cavlak**, Joel Lindegger, Mohammed Alser, Juan Gómez Luna, Sreenivas Subramoney, and Onur Mutlu. *arXiv*, 2207.09765, 2022.
 

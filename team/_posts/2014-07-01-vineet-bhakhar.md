@@ -19,8 +19,8 @@ alumni: true
 
 ### Education
 
-- B. Tech., Biotechnology, 2015_  
- - [IIT Guwahati](http://www.iitg.ac.in/biotech/), India. 
+- B. Tech., Biotechnology, 2015
+  - [IIT Guwahati](http://www.iitg.ac.in/biotech/), India. 
 
 ### After Alkan Lab
 
