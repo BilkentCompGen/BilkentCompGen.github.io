@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Klea Zambaku
-position: <img style="height:30px" src="https://github.com/BilkentCompGen/BilkentCompGen.github.io/blob/master/images/team/KZ_sq_side_dna.png?raw=true"/></br>M.Sc. Student
+position: M.Sc. Student <img style="height:30px" src="https://github.com/BilkentCompGen/BilkentCompGen.github.io/blob/master/images/team/KZ_sq_side_dna.png?raw=true"/>
 handle: klea
 twitter:
 github: kleazambaku
