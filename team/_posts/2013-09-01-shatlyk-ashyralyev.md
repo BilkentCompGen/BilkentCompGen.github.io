@@ -18,10 +18,6 @@ alumni: true
 ---
 
 ### Education
-- Ph.D. in Computer Engineering, 2013 - 2016
-  - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
-  - Advisors: Can Alkan.
-
 - M.Sc., Computer Engineering, 2013
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
   - Thesis: ["Incorporating the surfing behavior of web users into pagerank"](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=vVNzTGHHhjH-u3WMToxQ-v_ydHyjzcr-NbsD4SZ_1liXdSqV6wg4xn4PfcVDPh3f).
