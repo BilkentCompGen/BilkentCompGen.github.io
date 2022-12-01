@@ -12,7 +12,7 @@ linkedin: shatlyk
 instagram:
 orcid: 
 email: 
-image: /images/team/shatlyk.jpg
+image: /images/team/shatlyk_new.jpeg
 cv: 
 alumni: true
 ---
@@ -26,4 +26,4 @@ alumni: true
   - [Middle East Technical University](https://ceng.metu.edu.tr), Istanbul, Turkey
 
 ### After Alkan Lab
-Shatlyk employed as a Software Engineer at [Uber](http://www.uber.com). Now, he is employed as a Senior Software Engineer at [Cutr (YC W22)](https://nl.cutr.ai).
+After dropping out from PhD, Shatlyk worked at infrastructure teams at [Uber](https://www.uber.com) and [Datadog](https://www.datadoghq.com), focusing on build systems and developer tooling. Currently, he works at an early stage startup [Cutr](https://www.cutr.ai), building software for the wood industry.
