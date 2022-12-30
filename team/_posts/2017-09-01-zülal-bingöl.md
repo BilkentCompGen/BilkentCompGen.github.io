@@ -16,7 +16,7 @@ image: /images/team/zulalbingol.jpeg
 email: zulal.bingol@bilkent.edu.tr
 ---
 
-<img style="height:1em;" src="https://github.com/BilkentCompGen/BilkentCompGen.github.io/blob/master/images/team/ZB_sq_side_dna.png?raw=true"/>
+<img style="height:1.5em;" src="https://github.com/BilkentCompGen/BilkentCompGen.github.io/blob/master/images/team/ZB_sq_side_dna.png?raw=true"/>
 
 ### Education
 
