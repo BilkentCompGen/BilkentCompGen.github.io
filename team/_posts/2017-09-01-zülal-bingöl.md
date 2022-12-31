@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Zülal Bingöl
-position: Ph.D. Student
+position: Ph.D. Candidate
 handle: 
 twitter: zulal_b
 github: zulal-b
@@ -16,7 +16,7 @@ image: /images/team/zulalbingol.jpeg
 email: zulal.bingol@bilkent.edu.tr
 ---
 
-<img style="height:1.5em;" src="https://github.com/BilkentCompGen/BilkentCompGen.github.io/blob/master/images/team/ZB_sq_side_dna.png?raw=true"/>
+###### <img style="height:1.5em;" src="https://github.com/BilkentCompGen/BilkentCompGen.github.io/blob/master/images/team/ZB_sq_side_dna.png?raw=true"/> I am a Ph. D. Candidate at Bilkent University.
 
 ### Education
 
