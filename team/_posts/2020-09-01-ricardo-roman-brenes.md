@@ -2,7 +2,7 @@
 layout: member
 title: Ricardo Roman-Brenes
 
-position: Ph.D. Student
+position: Ph.D. Candidate
 handle: handle?
 github: rica01
 scholar: nn5UAYEAAAAJ
@@ -13,7 +13,7 @@ linkedin: ricardo-roman-brenes
 email: ricardo@bilkent.edu.tr
 alumni: false
 ---
-<img style="height:100px;" src="https://github.com/BilkentCompGen/BilkentCompGen.github.io/blob/master/images/team/RRB_sq_dna.png?raw=true"/>
+<img style="height:1.5em;" src="https://github.com/BilkentCompGen/BilkentCompGen.github.io/blob/master/images/team/RRB_sq_dna.png?raw=true"/> w0la.
 
 ### Education
 
