@@ -47,6 +47,6 @@ exclude:
   - "*.zip"
   - "Gemfile"
   - "Gemfile.lock"
-
+  - "support/support-asbu.html"
 projects:
   
