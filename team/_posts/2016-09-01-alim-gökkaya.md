@@ -20,7 +20,8 @@ alumni: true
 
 ### Publications
 
-- [Fast Characterization of Segmental Duplications in Genome Assemblies](https://doi.org/10.1093/bioinformatics/bty586). Ibrahim Numanagić, **Alim S. Gökkaya**, Lillian Zhang, Bonnie Berger, Can Alkan, Faraz Hach. *Bioinformatics*, Volume 34, Issue 17, 01 September 2018, Pages i706–i714
+- [Fast Characterization of Segmental Duplications in Genome Assemblies](https://doi.org/10.1093/bioinformatics/bty586). Ibrahim Numanagić, **Alim S. Gökkaya**, Lillian Zhang, Bonnie Berger, Can Alkan, Faraz Hach. *Bioinformatics*, 34 (17): i706–i714, 2021.
 
 ### After Alkan Lab
+
 Alim is now employed as a Sofware Engineer at Amazon in London, UK.
