@@ -6,7 +6,7 @@ safe: false
 
 title: Alkan Lab Research
 description: Combinatorial algorithms, hardware/software co-design, computational genomics from the Alkan lab at the Bilkent University
-url: http://bilkentcompgen.github.io
+url: http://www.alkanlab.org
 
 markdown: kramdown
 permalink: /:categories/:title/
@@ -15,6 +15,8 @@ sass:
   sass_dir: css
 
 plugins: ['jekyll-twitter-plugin']
+google_analytics: G-1PSVKCKRPG
+enable_google_analytics:    true  # enables google analytics
 
 exclude:
   - "*.branches"
@@ -47,6 +49,5 @@ exclude:
   - "*.zip"
   - "Gemfile"
   - "Gemfile.lock"
-  - "support/support-asbu.html"
 projects:
   
