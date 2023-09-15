@@ -12,7 +12,7 @@ alumni: true
 ---
 
 <img style="height:100px;" src="https://github.com/BilkentCompGen/BilkentCompGen.github.io/blob/master/images/team/MSA_sq_dna.png?raw=true"/>
- I am Master Student at the [Department of Computer Engineering](http://www.cs.bilkent.edu.tr/). My favorite xkcd comic is [Kolmogorov Directions](https://xkcd.com/1155/)
+My favorite xkcd comic is [Kolmogorov Directions](https://xkcd.com/1155/)
 
 ### Education
 

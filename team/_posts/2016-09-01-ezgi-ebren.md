@@ -19,7 +19,7 @@ alumni: true
 
 ### Education
 
-- M.Sc., Computer Engineering, Summer 2019
+- M.Sc., Computer Engineering, Fall 2020
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey 
   - Thesis: ["Large structural variation discovery using long reads with several degrees of error﻿"](http://repository.bilkent.edu.tr/handle/11693/54977).
   
