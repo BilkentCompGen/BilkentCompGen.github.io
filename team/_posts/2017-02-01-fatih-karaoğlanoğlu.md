@@ -36,4 +36,4 @@ cv:
 
 ### After Alkan Lab
 
-Fatih is now a Ph.D. student at [Simon Fraser University](http://www.cs.bilkent.edu.tr).
+Fatih is now a Ph.D. student at [Simon Fraser University](https://www.sfu.ca/computing.html).
