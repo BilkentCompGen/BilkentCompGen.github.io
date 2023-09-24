@@ -3,11 +3,11 @@ layout: member
 title: Ebrar Bozkurt
 position: M.Sc. Student
 handle: 
-github: 
+github: EbrarBozkurt
 website: 
-linkedin: 
-email: 
-image: /images/team/stickfig.png
+linkedin: ebrarbozkurt
+email: ebrar.bozkurt@bilkent.edu.tr
+image: /images/team/ebrar.jpg
 cv: 
 ---
 
