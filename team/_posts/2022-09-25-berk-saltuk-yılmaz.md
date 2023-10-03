@@ -7,6 +7,7 @@ linkedin: berksaltukyilmaz
 instagram: berksaltukyilmaz
 email: saltuk.yilmaz@ug.bilkent.edu.tr
 image: /images/team/berksaltuk.png
+alumni: true
 ---
 
 I am a senior Computer Science student at Bilkent University.
