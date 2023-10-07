@@ -3,7 +3,7 @@ layout: member
 title: Şebnem Türkoğlu
 position: Senior Research Project Student
 github: sebnemturkoglu
-linkedin: www.linkedin.com/in/sebnem-turkoglu/
+linkedin: sebnem-turkoglu/
 email: sebnemturkoglu4@gmail.com
 image: /images/team/sebnemturkoglu.jpg
 ---
