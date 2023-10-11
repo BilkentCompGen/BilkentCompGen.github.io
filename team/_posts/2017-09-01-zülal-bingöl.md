@@ -12,7 +12,7 @@ linkedin: zulal-bingol
 instagram:
 orcid: 0000-0002-2828-9665
 email: 
-image: /images/team/zulalbingol.jpeg
+image: /images/team/zulalbingol.jpg
 email: zulal.bingol@bilkent.edu.tr
 ---
 
