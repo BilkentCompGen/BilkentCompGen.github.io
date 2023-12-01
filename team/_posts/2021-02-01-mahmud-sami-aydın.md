@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Mahmud Sami Aydın
-position: M.Sc. Student
+position: M.Sc. 
 handle: mahmudsami
 github: mahmudsami
 image: /images/team/sami.jpeg

@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Eslim Rana Emiroglu
+title: Eslim Rana Emiroğlu
 position: Undergraduate Volunteer
 github: eslimrana
 linkedin: eslim-rana-emiro%C4%9Flu-4598bb227/
