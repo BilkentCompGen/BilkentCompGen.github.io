@@ -3,7 +3,7 @@ layout: member
 title: Ali Erdem Karaçay
 position: Graduate Volunteer
 github: arsivnet
-linkedin: https://www.linkedin.com/in/ali-erdem-karacay/
+linkedin: ali-erdem-karacay
 instagram: 
 email: ali.erdem.karacay@proton.me
 image: /images/team/adanaguy.jpeg
