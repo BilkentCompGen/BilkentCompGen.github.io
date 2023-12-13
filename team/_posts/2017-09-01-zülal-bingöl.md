@@ -19,8 +19,8 @@ email: zulal.bingol@bilkent.edu.tr
 
 <table>
   <tr>
-    <td style="vertical-align: middle; background:transparent !important;"><img style="height:2em;" src="https://github.com/BilkentCompGen/BilkentCompGen.github.io/blob/master/images/team/ZB.png?raw=true"/></td>
-    <td style="vertical-align: middle; align:left; background-color:transparent !important;">I am a Ph. D. Candidate at Bilkent University.</td>
+    <td style="vertical-align: middle; background:white !important;"><img style="height:2em;" src="https://github.com/BilkentCompGen/BilkentCompGen.github.io/blob/master/images/team/ZB.png?raw=true"/></td>
+    <td style="vertical-align: middle; align:left !important; background-color:white !important;">I am a Ph. D. Candidate at Bilkent University.</td>
   </tr>
 </table>
 
