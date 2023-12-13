@@ -17,7 +17,7 @@ email: zulal.bingol@bilkent.edu.tr
 ---
 ######
 
-<table style="margin: 0; padding: 0; border: 0; outline: 0; font-size: 100%; vertical-align: middle; background: transparent;"><tr><td style="vertical-align: middle"><img style="height:2em;" src="https://github.com/BilkentCompGen/BilkentCompGen.github.io/blob/master/images/team/ZB.png?raw=true"/></td><td style="vertical-align: middle">I am a Ph. D. Candidate at Bilkent University.</td></tr></table>
+<table style="margin: 0; padding: 0; border: 0; outline: 0; font-size: 100%; vertical-align: middle; background: transparent; background-color:transparent;"><tr><td style="vertical-align: middle;background-color:transparent;"><img style="height:2em;" src="https://github.com/BilkentCompGen/BilkentCompGen.github.io/blob/master/images/team/ZB.png?raw=true"/></td><td style="vertical-align: middle;background-color:transparent;">I am a Ph. D. Candidate at Bilkent University.</td></tr></table>
 
 ### Education
 
