@@ -16,7 +16,7 @@ image: /images/team/zulalbingol.jpg
 email: zulal.bingol@bilkent.edu.tr
 ---
 
-###### <img style="height:2em;" src="https://github.com/BilkentCompGen/BilkentCompGen.github.io/blob/master/images/team/ZB.png?raw=true"/> I am a Ph. D. Candidate at Bilkent University.
+###### <div  style="vertical-align: middle;" <img style="height:2em;" src="https://github.com/BilkentCompGen/BilkentCompGen.github.io/blob/master/images/team/ZB.png?raw=true"/> I am a Ph. D. Candidate at Bilkent University.</div>
 
 ### Education
 
