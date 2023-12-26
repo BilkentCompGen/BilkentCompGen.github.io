@@ -12,7 +12,7 @@ image: /images/team/rafi.jpeg
 cv: 
 ---
 
-<img style="height:100px;" src="https://github.com/BilkentCompGen/BilkentCompGen.github.io/blob/master/images/team/RC_sq_dna.png?raw=true"/> I am a master's student studying on structural variation discovery.
+<img style="height:100px;" src="/images/team/RÇ.png?raw=true"/> I am a master's student studying on structural variation discovery.
 
 ### Education
 
