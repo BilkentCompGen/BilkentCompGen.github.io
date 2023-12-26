@@ -12,7 +12,7 @@ image: /images/team/rafi.jpeg
 cv: 
 ---
 
-<img style="height:100px;" src="/images/team/RÇ.png?raw=true"/> I am a master's student studying on structural variation discovery.
+<img style="height:1.5em;" src="/images/team/RÇ.png?raw=true"/> I am a master's student studying on structural variation discovery.
 
 ### Education
 

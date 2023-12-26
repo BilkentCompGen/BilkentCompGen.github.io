@@ -9,7 +9,7 @@ orcid: 0000-0003-1231-4712
 email: oyavvuz.ozturk@gmail.com
 ---
 
-<img style="height:100px;" src="https://github.com/BilkentCompGen/BilkentCompGen.github.io/blob/master/images/team/OYO_sq_dna.png?raw=true"/> I am a Master Student at the [Department of Computer Engineering](http://www.cs.bilkent.edu.tr/). I am also one with the Force and the Force is with me.
+<img style="height:1.5em;" src="/images/team/ÖYÖ.png?raw=true"/> I am a Master Student at the [Department of Computer Engineering](http://www.cs.bilkent.edu.tr/). I am also one with the Force and the Force is with me.
 
 ### Education
 
