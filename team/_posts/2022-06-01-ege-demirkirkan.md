@@ -12,11 +12,12 @@ cv:
 alumni: true
 ---
 
-<img style="height:100px;" src="https://github.com/BilkentCompGen/BilkentCompGen.github.io/blob/master/images/team/ED_sq_dna.png?raw=true"/> I am a senior Computer Science student who is curious about anything interesting.
+<!-- <img style="height:1.5em;" src="/images/team/ED.png?raw=true"/> -->
+
 
 ### Education
 
-- B. Sc., Computer Engineering, 2018-present
+- B. Sc., Computer Engineering, 2018-2023
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
 - B. Sc., Computer Science, 2021-2022
   - [National University of Singapore](https://www.comp.nus.edu.sg/programmes/ug/cs/), Singapore

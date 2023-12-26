@@ -11,7 +11,7 @@ orcid: 0000-0003-2940-2700
 alumni: true
 ---
 
-<img style="height:100px;" src="https://github.com/BilkentCompGen/BilkentCompGen.github.io/blob/master/images/team/MSA_sq_dna.png?raw=true"/>
+<!-- <img style="height:1.5em;" src="/images/team/MSA_sq_dna.png?raw=true"/>-->
 My favorite xkcd comic is [Kolmogorov Directions](https://xkcd.com/1155/)
 
 ### Education

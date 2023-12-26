@@ -16,7 +16,8 @@ email: malavi@unam.bilkent.edu.tr
 alumni: true
 ---
 
-<img style="height:100px;" src="https://github.com/BilkentCompGen/BilkentCompGen.github.io/blob/master/images/team/MS_sq_dna.png?raw=true"/> I am a Sancar Fellow, working on the salt water and alkali water adaptation of A. tarichi.
+<!--<img style="height:1.5em;" src="/images/team/MS.png?raw=true"/>  -->
+Malavi was a Sancar Fellow, and she worked on the salt water and alkali water adaptation of A. tarichi.
 
 ### Education
 
