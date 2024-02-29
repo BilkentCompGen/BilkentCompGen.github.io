@@ -27,7 +27,7 @@ Baraa is now a Ph.D. candidate in Department of Computer Science at the [Univers
 
 - [**TKSM: Highly modular, user-customizable, and scalable transcriptomic sequencing long-read simulator**](https://academic.oup.com/bioinformatics/article/40/2/btae051/7589926).
 Fatih Karaoğlanoğlu, **Baraa Orabi**\*, Ryan Flannigan, Cedric Chauve, Faraz Hach.
-*Bioinformatics*, 40 (2): btae051, 2024. *Co-first author. [Preprint]((https://doi.org/10.1101/2023.06.12.544410). 
+*Bioinformatics*, 40 (2): btae051, 2024. *Co-first author. [Preprint](https://doi.org/10.1101/2023.06.12.544410). 
 - [**Freddie: annotation-independent detection and discovery of transcriptomic alternative splicing isoforms using long-read sequencing**](https://academic.oup.com/nar/article/51/2/e11/6882131).
 **Baraa Orabi**, Ning Xie, Brian McConeghy, Xuesen Dong, Cedric Chauve, Faraz Hach.
 *Nucleic Acids Research*, 51 (2): e11, 2023. Presented at *RECOMB 2021*.
