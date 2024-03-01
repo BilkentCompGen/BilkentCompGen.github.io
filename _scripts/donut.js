@@ -1,6 +1,6 @@
 (function() {
 var _onload = function() {
-  var pretag = document.getElementById('donutBox');
+  var pretag = document.getElementById('user-content-donutbox');
 
   var tmr1 = undefined;
   var A=1, B=1;
