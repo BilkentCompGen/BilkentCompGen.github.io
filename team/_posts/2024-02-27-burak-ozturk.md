@@ -12,7 +12,7 @@ image: /images/team/burak.jpg
 I am a random Computer Science student at Bilkent University who started to show up at AlkanLab and do things.
 
 <pre id="donutBox" style="display: inline-block; background-color: black; color: white; padding: 60px; white-space: pre-wrap;"></pre>
-<script src="../_scripts/donut.js"></script>
+<script src="/_scripts/donut.js"></script>
 
 ### Education
 
