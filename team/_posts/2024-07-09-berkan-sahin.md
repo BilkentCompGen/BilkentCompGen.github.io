@@ -6,7 +6,7 @@ handle: bsahin
 github: berkan-sahin
 website: 
 linkedin: bsahin0
-email: berkan.sahin@ug.bilkent.edu.tr
+email: berkan.sahin@bilkent.edu.tr
 image: /images/team/berkan.jpg
 orcid: 0009-0002-5151-2973 
 cv: 
