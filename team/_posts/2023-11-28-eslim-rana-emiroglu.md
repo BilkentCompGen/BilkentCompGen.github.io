@@ -7,6 +7,7 @@ linkedin: eslim-rana-emiro%C4%9Flu-4598bb227/
 instagram: 
 email: rana.emiroglu@ug.bilkent.edu.tr
 image: /images/team/rana.jpg
+orcid: 0009-0009-1833-714X
 ---
 
 I am a Computer Science student at Bilkent University.

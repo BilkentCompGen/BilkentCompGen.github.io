@@ -7,8 +7,8 @@ github: begumfilizoz
 website: 
 linkedin: 
 email: filiz.oz@ug.bilkent.edu.tr
-image: 
-orcid: 
+image: /images/team/begum.jpg
+orcid: 0009-0000-4429-4678
 cv: 
 ---
 
