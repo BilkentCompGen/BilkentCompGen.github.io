@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Eslim Rana Emiroğlu
-position: Undergraduate Volunteer
+position: Senior Research Project Student
 github: eslimrana
 linkedin: eslim-rana-emiro%C4%9Flu-4598bb227/
 instagram: 
