@@ -6,12 +6,10 @@ handle:
 github: akmami
 website: 
 linkedin: akmami
-email: akmuhammet@ug.bilkent.edu.tr
+email: akmuhammet@bilkent.edu.tr
 image: /images/team/akmuhammet.jpg
 cv: 
 ---
-
-The *LCP_mom* 🇪🇸🇲🇽🇦🇷🇨🇴🇵🇪🇪🇨🇧🇴🇨🇱🇵🇾🇺🇾🇨🇷🇵🇦🇬🇹🇸🇻🇭🇳🇳🇮🇨🇺🇩🇴🇵🇷🇬🇶
 
 ### Education
 
