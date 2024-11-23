@@ -12,11 +12,12 @@ image: /images/team/rafi.jpeg
 cv: 
 ---
 
-<img style="height:1.5em;" src="/images/team/RÇ.png?raw=true"/> I am a master's student studying on structural variation discovery.
+<img style="height:1.5em;" src="/images/team/RÇ.png?raw=true"/> I am a Ph. D. Student at Bilkent University.
 
 ### Education
-
-- M. Sc., Computer Engineering, Fall 2021 - present
+- Ph.D. Student, Computer Engineering, Fall 2024 - present
+  - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
+- M. Sc., Computer Engineering, 2024
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
 - B. Sc., Computer Engineering, 2021
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
