@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Rafi Çoktalaş
-position: M.Sc. Student
+position: Ph.D. Student
 handle: rafi.coktalas
 github: RafiCoktalas
 linkedin: rafi-coktalas
