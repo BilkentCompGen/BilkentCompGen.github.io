@@ -7,7 +7,7 @@ github: zeynepakcil
 website: 
 linkedin: zeynepakcil
 email: zeynep.akcil@ug.bilkent.edu.tr
-image: 
+image: /images/team/zeynepakcil.jpeg
 orcid: 0009-0005-0642-9187
 cv: 
 ---
