@@ -14,5 +14,5 @@ cv:
 
 
 ### Education
-- B.Sc., Computer Engineering, 2021 - 2026.
+- B.Sc., Electrical and Electronics Engineering, 2021 - 2026.
   - [Bilkent University](https://ee.bilkent.edu.tr/en/), Ankara, Turkey
