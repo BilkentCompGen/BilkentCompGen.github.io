@@ -19,7 +19,7 @@ alumni: true
 
 ### Education
 
-- Ph.D. Computer Science, 2017 - present 
+- Ph.D. Computer Science, 2017 - 2024 
   - [Rutgers University](https://www.cs.rutgers.edu/), Piscataway, NJ, United States
 
 - M.Sc. Computer Engineering, Spring 2016
@@ -31,4 +31,4 @@ alumni: true
 
 ### After Alkan Lab
 
-Azita is now a Ph.D. Candidate at Rutgers University.
+Azita obtained her Ph.D. at Rutgers University. She now works at the [NEC Research Lab](https://www.nec-labs.com/research/optical-networking-sensing/people/).

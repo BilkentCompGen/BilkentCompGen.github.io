@@ -9,6 +9,7 @@ scholar:
 image: /images/team/stickfig.png
 cv: https://github.com/_cv.pdf
 email: nermin.celik@gmail.com
+alumni: true
 ---
 
 I am a postdoc working on sepsis detection.
