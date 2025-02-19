@@ -9,6 +9,7 @@ email: ege.sirvan@ug.bilkent.edu.tr
 image: /images/team/egesrvn.jpg
 orcid: 0009-0003-1047-6141
 cv: 
+alumni: true
 ---
 
 

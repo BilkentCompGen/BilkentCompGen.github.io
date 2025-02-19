@@ -10,6 +10,7 @@ email: filiz.oz@ug.bilkent.edu.tr
 image: /images/team/begum.jpg
 orcid: 0009-0000-4429-4678
 cv: 
+alumni: true
 ---
 
 

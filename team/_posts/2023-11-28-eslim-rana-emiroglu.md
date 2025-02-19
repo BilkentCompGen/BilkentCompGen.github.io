@@ -8,6 +8,7 @@ instagram:
 email: rana.emiroglu@ug.bilkent.edu.tr
 image: /images/team/rana.jpg
 orcid: 0009-0009-1833-714X
+alumni: true
 ---
 
 I am a Computer Science student at Bilkent University.

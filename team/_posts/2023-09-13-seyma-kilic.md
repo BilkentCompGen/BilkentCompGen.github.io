@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Şeymanur Kılıç
-position: Undergraduate Volunteer
+position: Senior Research Project Student
 github: seymaklc
 linkedin: şeymanur-k-080060227/
 instagram: 
