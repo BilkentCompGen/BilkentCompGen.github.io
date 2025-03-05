@@ -5,7 +5,7 @@ position: Ph.D. Candidate
 handle: 
 twitter: zulal_b
 github: zulal-b
-scholar: Zülal Bingöl
+scholar: 7muhbxUAAAAJ 
 cv: 
 website: 
 linkedin: zulal-bingol
