@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Berkan Şahin
-position: Principal Investigator
+position: M. Sc. Student
 handle: bsahin 
 github: berkan-sahin
 website: 
