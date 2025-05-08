@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Murat Eren Güven
-position: Undergraduate Volunteer
+position: Intern
 github:
 image:
 linkedin: https://www.linkedin.com/in/murat-eren-g%C3%BCven-001b53250/
