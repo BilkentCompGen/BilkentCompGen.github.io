@@ -5,9 +5,11 @@ position: Intern
 github:
 image:
 linkedin: https://www.linkedin.com/in/murat-eren-g%C3%BCven-001b53250/
+image: /images/team/stickfig.png
 alumni: false
 orcid: 0000-0000-0000-0000
 alumni: true
+
 ---
 
 ### Education
