@@ -1,5 +1,6 @@
+---
 layout: member
-title: Toygar Tanriverdi
+title: Toygar Tanrıverdi
 position: Undergraduate Volunteer
 github: dylencyy
 linkedin: 
