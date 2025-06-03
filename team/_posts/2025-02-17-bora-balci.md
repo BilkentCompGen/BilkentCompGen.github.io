@@ -4,7 +4,7 @@ title: Bora Balcı
 position: Undergraduate Volunteer
 handle: 
 github: 
-image: /images/team/stickfig.png
+image: /images/team/borabalci.png
 linkedin: 
 alumni: false
 orcid: 
