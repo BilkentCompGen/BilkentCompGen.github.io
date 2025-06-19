@@ -3,9 +3,9 @@ layout: member
 title: Bora Balcı
 position: Undergraduate Volunteer
 handle: 
-github: 
+github: balcibora
 image: /images/team/borabalci.jpeg
-linkedin: 
+linkedin: bora-balci/
 alumni: false
 orcid: 
 ---
