@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Zeynep Akçil
-position: B.Sc. Student
+position: Undergraduate Volunteer
 handle: zeynepakcil 
 github: zeynepakcil
 website: 
