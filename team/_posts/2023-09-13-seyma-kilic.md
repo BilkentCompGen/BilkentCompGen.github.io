@@ -6,7 +6,7 @@ github: seymaklc
 linkedin: şeymanur-k-080060227/
 instagram: 
 email: 
-image: /images/team/seyma.jpg
+image: /images/team/seyma.png
 ---
 
 I am a Computer Science student at Bilkent University.
