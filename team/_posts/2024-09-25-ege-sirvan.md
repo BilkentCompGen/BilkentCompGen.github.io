@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Ege Sirvan
-position: B.Sc. Student
+position: Senior Research Project Student
 github: EgeSrvn
 website: 
 linkedin: 
