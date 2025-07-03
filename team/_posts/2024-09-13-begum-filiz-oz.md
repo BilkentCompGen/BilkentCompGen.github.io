@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Begüm Filiz Öz
-position: B.Sc. Student
+position: Individual Research Study Student
 handle: begumoz 
 github: begumfilizoz
 website: 
