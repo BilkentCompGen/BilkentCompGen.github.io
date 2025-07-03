@@ -4,7 +4,7 @@ title: Toygar Tanrıverdi
 position: Undergraduate Volunteer
 github: dylencyy
 linkedin: 
-image: /images/team/stickfig.png
+image: /images/team/toygar.jpeg
 alumni: false
 
 ---
