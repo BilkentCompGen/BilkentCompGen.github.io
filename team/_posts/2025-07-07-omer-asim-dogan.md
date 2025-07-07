@@ -3,9 +3,9 @@ layout: member
 title: Ömer Asım Doğan
 position: Undergraduate Volunteer
 handle: 
-github: https://github.com/omerasm
+github: omerasm
 image: /images/team/omer-asim-dogan.jpg
-linkedin: https://www.linkedin.com/in/%C3%B6mer-as%C4%B1m-do%C4%9Fan-6301a7198/
+linkedin: ömer-asım-doğan-6301a7198
 alumni: false
 orcid: 
 ---
