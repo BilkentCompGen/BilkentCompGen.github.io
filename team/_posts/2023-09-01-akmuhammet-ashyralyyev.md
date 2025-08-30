@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Akmuhammet Ashyralyyev
-position: M.Sc. Student
+position: Ph.D. Student
 handle: 
 github: akmami
 website: 
@@ -18,8 +18,12 @@ I’d honestly prefer living in Alaska, far away from people, but here I am doin
 
 ### Education
 
-- M. Sc., Computer Engineering, 2023 - present
+- Ph.D., Computer Engineering, Fall 2025 - present 
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
 
+- M. Sc., Computer Engineering, Summer 2025
+  - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
+  - Thesis:  ["	Efficient variation graph construction using Locally Consistent Parsing"]().
+  
 - B. Sc., Computer Engineering, 2023
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
