@@ -10,7 +10,7 @@ email: furkan.basibuyuk@ug.bilkent.edu.tr
 image: /images/team/furkanbasibuyuk.jpeg
 orcid: 0009-0008-4452-7492
 cv: 
-alumni: true
+alumni: false
 ---
 
 
