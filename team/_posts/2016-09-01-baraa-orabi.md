@@ -5,7 +5,6 @@ position: Undergraduate Volunteer
 handle: baraaorabi
 github: baraaorabi
 scholar: _ov7gR0AAAAJ
-twitter: baraaorabi
 linkedin: baraaorabi
 image: /images/team/orabi.jpg
 cv: 
@@ -13,7 +12,8 @@ alumni: true
 ---
 
 ### Education
-
+- Ph.D., Computer Science, 2024
+  - [The University of British Columbia](https://www.cs.ubc.ca/), Vancouver, BC, Canada
 - M.Sc., Computer Science, 2019
   - [Simon Fraser University](http://www.cs.sfu.ca), Burnaby, BC, Canada
 - B.Sc., Computer Engineering, 2017 
@@ -21,7 +21,7 @@ alumni: true
 
 ### After Alkan Lab
 
-Baraa is now a Ph.D. candidate in Department of Computer Science at the [University of British Columbia](https://www.cs.ubc.ca/). He is a member of [Faraz Hach lab](https://hachlab.org/). 
+Baraa is now a computational biologist at [10x Genomics](https://www.10xgenomics.com/). 
 
 ### Publications
 
