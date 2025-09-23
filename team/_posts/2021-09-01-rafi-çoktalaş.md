@@ -19,5 +19,6 @@ cv:
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
 - M. Sc., Computer Engineering, 2024
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
+  - Thesis:  ["Characterization of structural variation through assembly-to-assembly comparison"](https://repository.bilkent.edu.tr/items/2bf28773-43d5-4ab9-a1e0-1db4b70372a6).
 - B. Sc., Computer Engineering, 2021
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
