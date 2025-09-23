@@ -1,12 +1,12 @@
 ---
 layout: member
 title: Ege Demirkırkan
-position: Senior Research Project Student
+position: Undergraduate Volunteer
 handle: 
 github: edemirkirkan
 website: 
 linkedin: edemirkirkan
-email: ege.demirkirkan@ug.bilkent.edu.tr
+email: egedemirkirkan@gmail.com
 image: /images/team/edemirkirkan.jpg
 cv: 
 alumni: true
@@ -14,6 +14,7 @@ alumni: true
 
 <!-- <img style="height:1.5em;" src="/images/team/ED.png?raw=true"/> -->
 
+Ege joined Alkan Lab as a volunteer in Fall 2022, then continued as a Senior Research Project student.
 
 ### Education
 
