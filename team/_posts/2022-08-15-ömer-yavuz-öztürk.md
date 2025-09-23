@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Ömer Yavuz Öztürk
-position: M.Sc. Student
+position: M.Sc. 
 handle: yavuz.ozturk
 github: yavuz-ozturk
 image: /images/team/crazy_hamburger.jpeg
@@ -14,7 +14,7 @@ alumni: true
 
 ### Education
 
-- M.Sc., Computer Engineering, Fall 2022 - present
+- M.Sc., Computer Engineering, Summer 2025.
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
   - Thesis:  ["Sequence-to-graph alignment on a Processing-In-Memory system"]().
 
