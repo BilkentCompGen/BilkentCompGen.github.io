@@ -23,7 +23,7 @@ I’d honestly prefer living in Alaska, far away from people, but here I am doin
 
 - M. Sc., Computer Engineering, Summer 2025
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
-  - Thesis:  ["	Efficient variation graph construction using Locally Consistent Parsing"]().
+  - Thesis:  ["Efficient variation graph construction using Locally Consistent Parsing"](https://repository.bilkent.edu.tr/items/d81a60d7-2da7-4ab2-a937-59b0c1c3aa8c).
   
 - B. Sc., Computer Engineering, 2023
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
