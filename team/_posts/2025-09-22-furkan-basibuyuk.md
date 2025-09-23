@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Muhammed Furkan Başıbüyük
-position: Individual Research Study Student
+position: Senior Research Project Student
 handle: 
 github: Furkan-Basibuyuk
 website: 
