@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Meryem Banu Cavlak
-position: Undergraduate Volunteer
+position: Ph.D. Student
 handle: 
 twitter:
 github: banucavlak
@@ -13,7 +13,7 @@ orcid: 0000-0003-4475-6945
 email: mbanucavlak@gmail.com
 image: /images/team/banucavlak.png
 cv: 
-alumni: true
+alumni: false
 ---
 
 ### Education
