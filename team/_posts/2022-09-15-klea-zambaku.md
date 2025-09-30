@@ -7,7 +7,7 @@ twitter:
 github: kleazambaku
 scholar: 
 website: 
-linkedin: klea-zambaku-88992b199
+linkedin: klea-zambaku
 instagram:
 orcid: 0000-0001-7951-7720
 email: 
