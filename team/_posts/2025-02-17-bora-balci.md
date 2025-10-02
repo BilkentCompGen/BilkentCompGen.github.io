@@ -6,7 +6,7 @@ handle:
 github: balcibora
 image: /images/team/borabalci.jpeg
 linkedin: bora-balci/
-alumni: false
+alumni: true
 orcid: 
 ---
 
