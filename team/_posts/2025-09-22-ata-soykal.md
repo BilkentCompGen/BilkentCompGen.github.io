@@ -3,7 +3,7 @@ layout: member
 title: Ata Soykal
 position: Senior Research Project Student
 handle: 
-github: 
+github: Lqxness
 website: 
 linkedin: 
 email:
