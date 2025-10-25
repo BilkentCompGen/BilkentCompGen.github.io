@@ -30,4 +30,4 @@ alumni: true
 
 ### After Alkan Lab
 
-Atalay is now  a Ph.D. Candidate at   [Massachusetts Institute of Technology](https://www.csail.mit.edu/) in Cambridge, MA, United States.
+After graduation, Atalay pursued his Ph.D. at the [Massachusetts Institute of Technology](https://www.csail.mit.edu/) in Cambridge, MA, United States.

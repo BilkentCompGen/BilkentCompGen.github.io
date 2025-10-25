@@ -33,4 +33,4 @@ alumni: true
 
 ### After Alkan Lab
  
-After obtaining her M.Sc. degree, Gülfem first worked as a Software Engineer at [Seven Bridges Genomics](https://www.sevenbridges.com/) in Boston, MA, United States. She then moved to [Facebook](facebook.com) in London, UK, where she works as a Production Engineer.
+After obtaining her M.Sc. degree, Gülfem first worked as a Software Engineer at [Seven Bridges Genomics](https://www.sevenbridges.com/) in Boston, MA, United States. She then moved to [Facebook](facebook.com) in London, UK, where she worked as a Production Engineer. She then joined [Two Sigma](http://www.twosigma.com/) as a Production Engineer.

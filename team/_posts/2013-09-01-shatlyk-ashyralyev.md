@@ -26,4 +26,4 @@ alumni: true
   - [Middle East Technical University](https://ceng.metu.edu.tr), Istanbul, Turkey
 
 ### After Alkan Lab
-After dropping out from PhD, Shatlyk worked at infrastructure teams at [Uber](https://www.uber.com) and [Datadog](https://www.datadoghq.com), focusing on build systems and developer tooling. Currently, he works at an early stage startup [Cutr](https://www.cutr.ai), building software for the wood industry.
+After dropping out from PhD, Shatlyk worked at infrastructure teams at [Uber](https://www.uber.com), [Datadog](https://www.datadoghq.com), and [Cutr](https://www.cutr.ai) focusing on build systems and developer tooling. Currently, he works at [Metaview](https://www.metaview.ai/) as a Production Engineer.

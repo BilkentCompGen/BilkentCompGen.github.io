@@ -4,10 +4,10 @@ title: Naisila Puka
 position: Introduction to Research Student
 handle: 
 twitter:
-github: 
+github: naisila
 scholar: 
 website: 
-linkedin: 
+linkedin: naisilapuka
 instagram:
 orcid: 
 email: 
@@ -18,5 +18,8 @@ alumni: true
 
 ### Education
 
+- B. Sc., Computer Engineering, 2020
+  - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
+  
 ### After Alkan Lab
- is now employed as a .
+ After graduation, Naisila was employed as a Software Engineer at [Microsoft](https://www.microsoft.com/).

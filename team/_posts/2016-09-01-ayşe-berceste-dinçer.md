@@ -5,7 +5,7 @@ position: Introduction to Research Student
 handle: BercesteDincer
 twitter:
 github: BercesteDincer
-scholar: F4Zv3pwAAAAJ
+scholar: 
 cv: 
 website: https://bercestedincer.github.io/
 linkedin: 
@@ -25,4 +25,4 @@ alumni: true
 
 ### After Alkan Lab
 
-Berceste is now a Ph.D. candidate at the [University of Washington](https://cs.washington.edu/).
+Berceste pursued her Ph.D. at the [University of Washington](https://cs.washington.edu/).

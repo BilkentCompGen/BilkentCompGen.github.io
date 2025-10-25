@@ -24,4 +24,4 @@ alumni: true
 
 ### After Alkan Lab
 
-Vineet was an intern in Summer 2014. He is now employed as a Software Engineer at [Fi](https://fi.money/).
+Vineet was an intern in Summer 2014. After graduation, he was employed as a Software Engineer at [Fi](https://fi.money/).

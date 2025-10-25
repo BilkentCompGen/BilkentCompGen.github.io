@@ -5,8 +5,6 @@ position: M.Sc.
 handle: azita
 twitter:
 github: AzitaN
-scholar: B9i5yzIAAAAJ
-cv: 
 website: 
 linkedin: azita-nouri-36012a181/
 instagram:

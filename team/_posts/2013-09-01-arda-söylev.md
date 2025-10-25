@@ -35,6 +35,6 @@ alumni: true
 
 ### After Alkan Lab
 
-Arda is now working as a PostDoc researcher with [Tobias Marschall](https://marschall-lab.github.io/) at Heinrich-Heine University, Institute for Medical Biometry and Bioinformatics.
+Arda worked as a postdoc researcher with [Tobias Marschall](https://marschall-lab.github.io/) at Heinrich-Heine University, Institute for Medical Biometry and Bioinformatics. He is now an Assistant Professor in the Department of Computer Engineering at [Necmettin Erbakan University](https://erbakan.edu.tr/tr/birim/bilgisayar-muhendisligi-bolumu/).
  
  

@@ -9,7 +9,7 @@ scholar: iYXWCzQAAAAJ
 cv: 
 website: https://damlasenolcali.github.io/
 linkedin: damlasenolcali
-instagram: 
+instagram: damlasenolcali
 orcid: 0000-0002-3665-6285
 email: damlasenolcali@gmail.com
 image: /images/team/dsenol.jpg
@@ -28,7 +28,8 @@ alumni: true
 
 ### After Alkan Lab
 
-Damla Senol Cali is a Staff Software Engineer, Hardware Acceleration at [Bionano Genomics](https://bionanogenomics.com/). She received her Ph.D. degree in Computer Engineering from the [SAFARI Research Group](https://safari.ethz.ch/) at Carnegie Mellon University, where she was advised by [Prof. Onur Mutlu](https://people.inf.ethz.ch/omutlu/index.html) and [Prof. Saugata Ghose](https://ghose.web.illinois.edu/). 
+Damla Senol Cali is a Senior Computational Biologist at [10X Genomics](http://10xgenomics.com/).
+She received her Ph.D. degree in Computer Engineering from the [SAFARI Research Group](https://safari.ethz.ch/) at Carnegie Mellon University, where she was advised by [Prof. Onur Mutlu](https://people.inf.ethz.ch/omutlu/index.html) and [Prof. Saugata Ghose](https://ghose.web.illinois.edu/). She then worked as a Staff Software Engineer, Hardware Acceleration at [Bionano Genomics](https://bionanogenomics.com/). 
 
 Her research focuses on hardware/software co-design for accelerating bioinformatics applications and genomic data analysis. She is also excited about memory systems and processing-in-memory. During her Ph.D., she also interned at Intel Labs in 2018 and 2020.
 

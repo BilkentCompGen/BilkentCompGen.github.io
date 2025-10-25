@@ -36,4 +36,4 @@ cv:
 
 ### After Alkan Lab
 
-Fatih is now a Ph.D. student at [Simon Fraser University](https://www.sfu.ca/computing.html).
+After graduation, Fatih pursued his Ph.D. at [Simon Fraser University](https://www.sfu.ca/computing.html).

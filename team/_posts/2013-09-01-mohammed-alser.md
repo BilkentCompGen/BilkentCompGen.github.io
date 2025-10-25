@@ -35,5 +35,4 @@ My primary research incorporates several aspects of bioinformatics, computer sci
 
 
 ### After Alkan Lab
-I am now a Senior Researcher and Lecturer at ETH Zurich, Switzerland since September 2018. 
-I am affiliated with Department of Computer Science & Department of Information Technology and Electrical Engineering.
+I joined ETH Zurich, Switzerland as a Senior Researcher and Lecturer in September 2018, affiliated with Department of Computer Science & Department of Information Technology and Electrical Engineering. I am now an Assistant Professor in the [Department of Computer Science at Georgia State University](https://csds.gsu.edu/).

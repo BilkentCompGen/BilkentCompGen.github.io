@@ -30,5 +30,5 @@ Malavi was a Sancar Fellow, and she worked on the salt water and alkali water ad
 
 ### After Alkan Lab
 
-Malavi is now an Instructor at the [Ashoka University](https://www.ashoka.edu.in/).
+After Alkan Lab, Malavi moved to [Ashoka University](https://www.ashoka.edu.in/) as an Instructor.
 
