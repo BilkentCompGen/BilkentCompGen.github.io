@@ -4,6 +4,7 @@ title: Erdem Uğurlu
 position: Undergraduate Volunteer
 handle: ErdemUgurlu
 github: ErdemUgurlu
+scholar: hsdinXUAAAAJ
 website:
 linkedin: erdemugurlu1
 email: erdemugurlu12@gmail.com
