@@ -4,6 +4,7 @@ title: Ebrar Bozkurt
 position: M.Sc. Student
 handle: 
 github: EbrarBozkurt
+scholar: RtYMuY0AAAAJ
 website: 
 linkedin: ebrarbozkurt
 email: ebrar.bozkurt@bilkent.edu.tr

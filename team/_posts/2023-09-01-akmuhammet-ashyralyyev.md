@@ -4,6 +4,7 @@ title: Akmuhammet Ashyralyyev
 position: Ph.D. Student
 handle: 
 github: akmami
+scholar: rALCp-IAAAAJ
 website: 
 linkedin: akmami
 email: akmuhammet@bilkent.edu.tr
