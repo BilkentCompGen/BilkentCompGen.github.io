@@ -11,7 +11,7 @@ linkedin: klea-zambaku
 instagram:
 orcid: 0000-0001-7951-7720
 email: 
-image: /images/team/klea.JPG
+image: /images/team/kz.png
 cv: 
 email: klea.zambaku@bilkent.edu.tr
 ---
