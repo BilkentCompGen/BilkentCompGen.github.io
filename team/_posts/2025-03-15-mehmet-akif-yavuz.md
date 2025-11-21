@@ -8,7 +8,7 @@ scholar: VL4_sOMAAAAJ&hl
 website: 
 linkedin: mehmet-akif-yavuz
 email: yavuzmakif38@gmail.com
-image: /images/team/stickfig.png
+image: /images/team/makif.jpg
 orcid:
 cv: 
 alumni: false
