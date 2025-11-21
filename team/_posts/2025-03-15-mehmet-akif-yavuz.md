@@ -4,6 +4,7 @@ title: Mehmet Akif Yavuz
 position: Undergraduate Volunteer
 handle:
 github: Makif3825
+scholar: VL4_sOMAAAAJ&hl
 website: 
 linkedin: mehmet-akif-yavuz
 email: yavuzmakif38@gmail.com
