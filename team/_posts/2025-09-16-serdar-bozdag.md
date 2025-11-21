@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Serdar Bozdağ
-position: Volunteer
+position: Undergraduate Volunteer
 handle:
 github:
 website: 
