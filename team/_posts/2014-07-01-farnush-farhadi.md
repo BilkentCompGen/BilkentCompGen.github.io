@@ -11,7 +11,7 @@ linkedin: farnush-farhadi
 instagram:
 orcid: 
 email: 
-image: /images/team/farnush.jpg
+image: /images/team/FarnushFarhadiLinkedIn.jpg
 cv: 
 alumni: true
 ---
