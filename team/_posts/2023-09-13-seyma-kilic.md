@@ -7,6 +7,7 @@ linkedin: şeymanur-k-080060227/
 instagram: 
 email: 
 image: /images/team/seyma.png
+alumni: true
 ---
 
 I am a Computer Science student at Bilkent University.
