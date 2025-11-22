@@ -4,6 +4,7 @@ title: Zeynep Akçil
 position: Undergraduate Volunteer
 handle: zeynepakcil 
 github: zeynepakcil
+scholar: nhrksO0AAAAJ
 website: 
 linkedin: zeynepakcil
 email: zeynep.akcil@ug.bilkent.edu.tr
