@@ -16,7 +16,7 @@ cv:
 email: klea.zambaku@bilkent.edu.tr
 ---
 
-<img style="height:1.5em" src="/images/team/KZ.png?raw=true"/> I am currently a M. Sc. student at [Bilkent University](http://www.cs.bilkent.edu.tr/).
+<img style="height:1.5em" src="/images/team/KZ.png?raw=true"/> I am currently a Ph.D. student at [Bilkent University](http://www.cs.bilkent.edu.tr/).
 
 ### Education
 
