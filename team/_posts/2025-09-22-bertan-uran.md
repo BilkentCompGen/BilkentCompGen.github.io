@@ -7,7 +7,7 @@ github: brtnurn
 website: 
 linkedin: bertanuran
 email: bertan.uran@ug.bilkent.edu.tr
-image: /images/team/stickfig.png
+image: /images/team/bertanuran.jpg
 orcid:
 cv: 
 alumni: false
