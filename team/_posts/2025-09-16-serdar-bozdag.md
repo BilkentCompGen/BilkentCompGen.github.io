@@ -7,7 +7,7 @@ github:
 website: 
 linkedin:
 email:
-image: /images/team/stickfig.png
+image: /images/team/serdarbozdag.jpg
 orcid:
 cv: 
 alumni: false
