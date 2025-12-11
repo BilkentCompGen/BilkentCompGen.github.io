@@ -15,5 +15,5 @@ alumni: false
 
 
 ### Education
-- B.Sc., Computer Engineering, 202? - 202?.
+- B.Sc., Computer Engineering, 2023 - 2027.
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
