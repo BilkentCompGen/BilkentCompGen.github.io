@@ -17,7 +17,7 @@ alumni: true
 - PhD, Bioinformatics, 2021
   - [Boston University](https://www.bu.edu/bioinformatics), Boston, MA, USA
 
-- M.Sc., Computer Engineering, 2013
+- M.Sc., Computer Engineering, 2015
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
   - Thesis: ["Algorithms for the discovery of large genomic inversions using pooled clone sequencing"](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=WBc656i315e2eV6-EZV1ooV_x-fK_ozzhurjEwHA502baVGhJKe1YH21K9cb9yTg).
 
