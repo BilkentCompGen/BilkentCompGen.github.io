@@ -5,6 +5,7 @@ position: Ph.D. Student
 handle: 
 github: akmami
 scholar: rALCp-IAAAAJ
+orcid: 0009-0002-8669-8333
 website: 
 linkedin: akmami
 email: akmuhammet@bilkent.edu.tr
@@ -28,3 +29,7 @@ I’d honestly prefer living in Alaska, far away from people, but here I am doin
   
 - B. Sc., Computer Engineering, 2023
   - [Bilkent University](http://www.cs.bilkent.edu.tr/), Ankara, Turkey
+
+### Publications
+
+- **LCPan: efficient variation graph construction using locally consistent parsing**. <ins>Akmuhammet Ashyralyyev</ins>, Zülal Bingöl, Begüm Filiz Öz, Kaiyuan Zhu, Salem Malikic, Uzi Vishkin, S. Cenk Sahinalp, Can Alkan. [**Full Paper: Genome Biology 2026**](https://link.springer.com/article/10.1186/s13059-026-04088-w) / [**arXiv preprint**](https://arxiv.org/abs/2103.14978)
