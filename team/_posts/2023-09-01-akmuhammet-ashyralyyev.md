@@ -32,4 +32,4 @@ I’d honestly prefer living in Alaska, far away from people, but here I am doin
 
 ### Publications
 
-- **LCPan: efficient variation graph construction using locally consistent parsing**. <ins>Akmuhammet Ashyralyyev</ins>, Zülal Bingöl, Begüm Filiz Öz, Kaiyuan Zhu, Salem Malikic, Uzi Vishkin, S. Cenk Sahinalp, Can Alkan. [**Full Paper: Genome Biology 2026**](https://link.springer.com/article/10.1186/s13059-026-04088-w) / [**arXiv preprint**](https://arxiv.org/abs/2103.14978)
+- **LCPan: efficient variation graph construction using locally consistent parsing**. <ins>Akmuhammet Ashyralyyev</ins>, Zülal Bingöl, Begüm Filiz Öz, Kaiyuan Zhu, Salem Malikic, Uzi Vishkin, S. Cenk Sahinalp, Can Alkan. [**Full Paper: Genome Biology 2026**](https://link.springer.com/article/10.1186/s13059-026-04088-w) / [**arXiv preprint**](https://arxiv.org/abs/2511.12205)
