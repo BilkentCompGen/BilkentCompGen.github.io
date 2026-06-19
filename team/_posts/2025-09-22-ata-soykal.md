@@ -10,7 +10,7 @@ email: ata.soykal@ug.bilkent.edu.tr
 image: /images/team/stickfig.png
 orcid:
 cv: 
-alumni: false
+alumni: true
 ---
 
 

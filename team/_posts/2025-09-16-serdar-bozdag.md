@@ -10,7 +10,7 @@ email:
 image: /images/team/serdarbozdag.jpg
 orcid:
 cv: 
-alumni: false
+alumni: true
 ---
 
 
