@@ -6,7 +6,7 @@ handle:
 github: akmami
 scholar: rALCp-IAAAAJ
 orcid: 0009-0002-8669-8333
-website: 
+website: https://akmami.com
 linkedin: akmami
 email: akmuhammet@bilkent.edu.tr
 image: /images/team/akmuhammet.jpg
