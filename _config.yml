@@ -1,7 +1,6 @@
 # Plugins
 plugins:
 - jekyll-sitemap
-- jekyll-twitter-plugin
 safe: false
 
 title: Alkan Lab Research
@@ -14,7 +13,6 @@ future: true
 sass:
   sass_dir: css
 
-plugins: ['jekyll-twitter-plugin']
 google_analytics: G-1PSVKCKRPG
 enable_google_analytics:    true  # enables google analytics
 

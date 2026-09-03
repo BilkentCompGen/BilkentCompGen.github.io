@@ -318,6 +318,39 @@ blockquote {
 
 }
 
+/* media gallery */
+
+.mediabox {
+	margin-bottom: 10px;
+}
+
+.mediaphoto {
+	width: 100%;
+	height: 240px;
+	object-fit: cover;
+	border: 2px solid #e7e7e7;
+	border-radius: 4px;
+}
+
+a:hover .mediaphoto {
+	border-color: $primary;
+}
+
+.mediacaption {
+	min-height: 72px;
+}
+
+/* Bootstrap's sm breakpoint. Written out longhand because custom.scss is
+   imported before bootstrap, so its mixins are not defined yet. */
+@media (max-width: 767.98px) {
+	.mediaphoto {
+		height: 260px;
+	}
+	.mediacaption {
+		min-height: 0;
+	}
+}
+
 .talkbox {
 	min-height: 100px;
 }

@@ -1,0 +1,8 @@
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+.DS_Store
+
+# full-res originals: staging area for Google Drive upload, not shipped
+images/media/full/
