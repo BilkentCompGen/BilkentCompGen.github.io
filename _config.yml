@@ -12,6 +12,23 @@ permalink: /:categories/:title/
 future: true
 sass:
   sass_dir: css
+  # css/bootstrap/ (Bootstrap 4.6) and css/font-awesome/ (Font Awesome 4.7)
+  # are vendored copies written for libsass. Dart Sass warns about their
+  # syntax on every build -- ~400 warnings, none of them actionable without
+  # replacing both libraries. Silenced so real warnings stay visible.
+  #
+  # quiet_deps does NOT cover this: it only silences files reached through
+  # sass_dir or load_paths, and these are imported relative to style.scss.
+  #
+  # This defers the problem rather than solving it. Dart Sass 3.0 removes
+  # @import and the global built-ins outright, and no amount of silencing
+  # will help then -- that is the deadline for moving to Bootstrap 5.
+  silence_deprecations:
+    - import          # 150 @import rules across the two vendored trees
+    - global-builtin  # unquote(), map-get(), nth(), percentage(), floor()...
+    - if-function     # 23 uses of the old if() syntax
+    - color-functions # darken() / lighten() / fade-in() in _variables.scss
+    - slash-div       # 68 uses of / for division
 
 google_analytics: G-1PSVKCKRPG
 enable_google_analytics:    true  # enables google analytics
