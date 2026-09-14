@@ -251,6 +251,32 @@ items:
     text: >
       Fatih presenting at HIBIT 2017 in Cyprus
   # END IMPORTED
+
+#============================================================================
+# PREVIOUS ALL-LAB PHOTOS  (second tab on this page)
+#
+#   - year: 2026
+#     image: /images/all-lab-photos/web/alkanlab_2026.jpg
+#     text: optional one-line caption
+#
+# Web copies (long edge 2000px) live in images/all-lab-photos/web/. The
+# multi-megabyte originals sit one level up and are NOT committed, same as
+# images/media/full/. Newest year first.
+#============================================================================
+
+labphotos:
+  - year: 2025
+    image: /images/all-lab-photos/web/alkanlab_2025.jpg
+  - year: 2024
+    image: /images/all-lab-photos/web/alkanlab_2024.jpg
+  - year: 2023
+    image: /images/all-lab-photos/web/alkanlab_2023.jpg
+  - year: 2022
+    image: /images/all-lab-photos/web/alkanlab_2022.jpg
+  - year: 2021
+    image: /images/all-lab-photos/web/alkanlab_2021.jpg
+  - year: 2018
+    image: /images/all-lab-photos/web/alkanlab_2018.jpg
 ---
 
 <div class="row">
@@ -266,6 +292,24 @@ items:
 </div>
 
 <div class="bigspacer"></div>
+
+<ul class="nav nav-tabs mediatabs" role="tablist">
+	<li class="nav-item">
+		<a class="nav-link active" id="media-tab" data-toggle="tab" href="#media" role="tab"
+		   aria-controls="media" aria-selected="true">Media</a>
+	</li>
+	<li class="nav-item">
+		<a class="nav-link" id="all-lab-photos-tab" data-toggle="tab" href="#all-lab-photos" role="tab"
+		   aria-controls="all-lab-photos" aria-selected="false">Previous All-Lab Photos</a>
+	</li>
+</ul>
+
+<div class="bigspacer"></div>
+
+<div class="tab-content">
+
+<!-- ===================== tab 1: media grid ===================== -->
+<div class="tab-pane fade show active" id="media" role="tabpanel" aria-labelledby="media-tab">
 
 {% if page.items and page.items.size > 0 %}
 
@@ -309,3 +353,60 @@ items:
 </div>
 
 {% endif %}
+
+</div>
+
+<!-- ===================== tab 2: previous all-lab photos ===================== -->
+<div class="tab-pane fade" id="all-lab-photos" role="tabpanel" aria-labelledby="all-lab-photos-tab">
+
+{% if page.labphotos and page.labphotos.size > 0 %}
+
+{% for photo in page.labphotos %}
+<div class="row">
+	<div class="col-lg-12 labphotobox">
+		<div class="smallhead">
+			{{ photo.year }}{% if photo.text %} &mdash; {{ photo.text }}{% endif %}
+		</div>
+		<div class="spacer"></div>
+		<img class="labphoto"
+		     src="{{ photo.image }}"
+		     loading="lazy"
+		     alt="{{ photo.alt | default: photo.text | default: "Alkan lab group photo" }}{% if photo.year %}, {{ photo.year }}{% endif %}">
+		<div class="bigspacer"></div>
+	</div>
+</div>
+{% endfor %}
+
+{% else %}
+
+<div class="row">
+	<div class="col-lg-12">
+		<div class="note text-gray">
+			No all-lab photos yet. Add some to the <code>labphotos:</code> list
+			at the top of <code>media/index.html</code>.
+		</div>
+	</div>
+</div>
+
+{% endif %}
+
+</div>
+
+</div>
+
+<script>
+// Let /media/#all-lab-photos open the second tab directly, and keep the
+// URL hash in sync when the visitor switches tabs.
+$(function () {
+	var hash = window.location.hash;
+	if (hash && $('.mediatabs a[href="' + hash + '"]').length) {
+		$('.mediatabs a[href="' + hash + '"]').tab('show');
+	}
+	$('.mediatabs a').on('shown.bs.tab', function (e) {
+		var target = $(e.target).attr('href');
+		if (history.replaceState) {
+			history.replaceState(null, '', target === '#media' ? window.location.pathname : target);
+		}
+	});
+});
+</script>

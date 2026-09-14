@@ -6,3 +6,7 @@ _site/
 
 # full-res originals: staging area for Google Drive upload, not shipped
 images/media/full/
+
+# all-lab photo originals (4-12 MB each); the site serves the web/ copies
+images/all-lab-photos/*.jpg
+images/all-lab-photos/*.JPG

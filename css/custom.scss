@@ -351,6 +351,41 @@ a:hover .mediaphoto {
 	}
 }
 
+/* media page tabs + previous all-lab photos */
+
+.mediatabs {
+	border-bottom: 1px solid #e7e7e7;
+}
+
+.mediatabs.nav-tabs .nav-link {
+	font-size: 17px;
+	font-weight: 300;
+	color: $gray-light;
+	border: 0;
+	border-bottom: 3px solid transparent;
+	border-radius: 0;
+	padding: 8px 18px;
+	margin-bottom: -1px;
+}
+
+.mediatabs.nav-tabs .nav-link:hover {
+	color: $primary;
+	border-color: transparent;
+}
+
+.mediatabs.nav-tabs .nav-link.active {
+	color: $gray;
+	background: transparent;
+	border-bottom-color: $primary;
+}
+
+.labphoto {
+	width: 100%;
+	height: auto;
+	border: 2px solid #e7e7e7;
+	border-radius: 4px;
+}
+
 .talkbox {
 	min-height: 100px;
 }
