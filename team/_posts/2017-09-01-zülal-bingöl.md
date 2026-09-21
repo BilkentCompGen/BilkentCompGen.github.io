@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Zülal Bingöl
-position: Ph.D. Candidate
+position: Ph.D.
 handle: 
 twitter: zulal_b
 github: zulal-b
