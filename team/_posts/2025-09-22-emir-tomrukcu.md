@@ -10,7 +10,7 @@ email: emir.tomrukcu@ug.bilkent.edu.tr
 image: /images/team/emirtom.jpg
 orcid:
 cv: 
-alumni: false
+alumni: true
 ---
 
 

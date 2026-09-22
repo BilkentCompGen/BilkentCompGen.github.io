@@ -10,7 +10,7 @@ email: bertan.uran@ug.bilkent.edu.tr
 image: /images/team/bertanuran.jpg
 orcid:
 cv: 
-alumni: false
+alumni: true
 ---
 
 
