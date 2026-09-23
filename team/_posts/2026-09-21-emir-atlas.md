@@ -6,7 +6,7 @@ handle:
 github: emiratlas1
 linkedin: emir-atlas-4772131b2
 email: emir.atlas@ug.bilkent.edu.tr
-image: /images/team/emiratlas.jpeg
+image: /images/team/emiratlas.jpg
 orcid:
 cv: 
 alumni: false
