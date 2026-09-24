@@ -10,6 +10,7 @@ image: /images/team/stickfig.png
 cv: https://github.com/_cv.pdf
 email: nermin.celik@gmail.com
 alumni: true
+alumni_leave_date: 2024-02-01
 ---
 
 I am a postdoc working on sepsis detection.
