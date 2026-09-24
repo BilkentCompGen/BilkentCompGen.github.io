@@ -13,8 +13,6 @@ alumni: true
 alumni_leave_date: 2023-02-01
 ---
 
-<!-- <img style="height:1.5em;" src="/images/team/ED.png?raw=true"/> -->
-
 Ege joined Alkan Lab as a volunteer in Fall 2022, then continued as a Senior Research Project student.
 
 ### Education

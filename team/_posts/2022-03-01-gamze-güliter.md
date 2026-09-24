@@ -17,7 +17,6 @@ alumni: true
 alumni_leave_date: 2022-06-01
 ---
 
-<!-- <img style="height:1.5em;" src="/images/team/GG.png?raw=true"/> -->
 Gamze joined Alkan Lab as an Introduction to Research Student in Spring 2020, then continued as a volunteer. She is now a M.Sc. student at [Politecnico di Milano](https://www.polimi.it/en).
  
 ### Education
