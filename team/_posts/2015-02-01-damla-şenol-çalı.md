@@ -14,6 +14,7 @@ orcid: 0000-0002-3665-6285
 email: damlasenolcali@gmail.com
 image: /images/team/dsenol.jpg
 alumni: true
+alumni_leave_date: 2015-06-01
 ---
 
 ### Education

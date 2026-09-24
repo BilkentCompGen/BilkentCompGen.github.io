@@ -11,6 +11,7 @@ image: /images/team/begum.jpg
 orcid: 0009-0000-4429-4678
 cv: 
 alumni: true
+alumni_leave_date: 2025-02-01
 ---
 
 

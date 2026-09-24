@@ -12,6 +12,7 @@ image: /images/team/zeynepakcil.jpg
 orcid: 0009-0005-0642-9187
 cv:
 alumni: true
+alumni_leave_date: 2026-08-01
 ---
 
 

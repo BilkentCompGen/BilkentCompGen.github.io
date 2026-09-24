@@ -11,6 +11,7 @@ image: /images/team/serdarbozdag.jpg
 orcid:
 cv: 
 alumni: true
+alumni_leave_date: 2025-12-30
 ---
 
 

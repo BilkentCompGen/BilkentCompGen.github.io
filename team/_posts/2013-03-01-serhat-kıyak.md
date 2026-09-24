@@ -14,6 +14,7 @@ orcid:
 email: 
 image: /images/team/serhat.jpg
 alumni: true
+alumni_leave_date: 2014-06-01
 ---
 
 ### Education

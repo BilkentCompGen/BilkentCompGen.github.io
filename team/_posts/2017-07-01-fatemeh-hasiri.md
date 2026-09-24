@@ -14,6 +14,7 @@ orcid:
 email: 
 image: /images/team/fhasiri.jpg
 alumni: true
+alumni_leave_date: 2017-08-01
 ---
 
 ### Education

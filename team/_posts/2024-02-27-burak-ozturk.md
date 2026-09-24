@@ -8,6 +8,7 @@ instagram: isarem52
 email: burakozturk001@gmail.com
 image: /images/team/burak.jpg
 alumni: true
+alumni_leave_date: 2025-06-01
 ---
 
 I am a random Computer Science student at Bilkent University who started to show up at AlkanLab and do things.

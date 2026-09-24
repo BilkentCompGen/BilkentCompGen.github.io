@@ -10,6 +10,7 @@ email: egedemirkirkan@gmail.com
 image: /images/team/edemirkirkan.jpg
 cv: 
 alumni: true
+alumni_leave_date: 2023-02-01
 ---
 
 <!-- <img style="height:1.5em;" src="/images/team/ED.png?raw=true"/> -->

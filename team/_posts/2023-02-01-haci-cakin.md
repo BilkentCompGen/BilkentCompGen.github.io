@@ -8,6 +8,7 @@ instagram: hc_ckn
 email: hacicakin561@gmail.com
 image: /images/team/hacicakin.jpg
 alumni: true
+alumni_leave_date: 2023-06-01
 ---
 
 

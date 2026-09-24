@@ -14,6 +14,7 @@ email: gamzeguliter@gmail.com
 image: /images/team/gamze.JPG
 cv: 
 alumni: true
+alumni_leave_date: 2022-06-01
 ---
 
 <!-- <img style="height:1.5em;" src="/images/team/GG.png?raw=true"/> -->
