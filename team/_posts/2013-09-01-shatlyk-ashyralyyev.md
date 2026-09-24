@@ -15,6 +15,7 @@ email:
 image: /images/team/shatlyk_new.jpeg
 cv: 
 alumni: true
+alumni_leave_date: 2016-07-30
 ---
 
 ### Education

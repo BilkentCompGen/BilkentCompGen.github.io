@@ -14,6 +14,8 @@ orcid: 0000-0002-2828-9665
 email: 
 image: /images/team/zulalbingol.jpg
 email: zulal.bingol@bilkent.edu.tr
+alumni: true
+alumni_leave_date: 2026-09-17
 ---
 ###### <img style="height:2em;" src="https://github.com/BilkentCompGen/BilkentCompGen.github.io/blob/master/images/team/ZB.png?raw=true"/> I am a Ph. D. from Bilkent University.
 

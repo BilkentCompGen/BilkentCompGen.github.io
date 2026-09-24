@@ -14,6 +14,7 @@ image: /images/team/malavi.jpg
 cv: 
 email: malavi@unam.bilkent.edu.tr
 alumni: true
+alumni_leave_date: 2023-01-01
 ---
 
 <!--<img style="height:1.5em;" src="/images/team/MS.png?raw=true"/>  -->

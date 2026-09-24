@@ -46,8 +46,28 @@ categories:
 
 <div class="bigspacer"></div>
 
+{% comment %}
+	Sort alumni newest first by alumni_leave_date, falling back to the
+	post date (file name prefix) when alumni_leave_date is missing.
+{% endcomment %}
+{% assign alumni_keys = "" | split: "" %}
 {% for member in site.categories.team %}
 	{% if member.alumni == true %}
+		{% if member.alumni_leave_date %}
+			{% assign sortdate = member.alumni_leave_date | date: "%Y-%m-%d" %}
+		{% else %}
+			{% assign sortdate = member.date | date: "%Y-%m-%d" %}
+		{% endif %}
+		{% assign key = sortdate | append: "|" | append: member.url %}
+		{% assign alumni_keys = alumni_keys | push: key %}
+	{% endif %}
+{% endfor %}
+{% assign alumni_keys = alumni_keys | sort | reverse %}
+
+{% for key in alumni_keys %}
+	{% assign memberurl = key | split: "|" | last %}
+	{% assign member = site.categories.team | where: "url", memberurl | first %}
+	{% if member %}
     {% cycle 'add rows 2': '<div class="row">', '', '' %}
 		<div class="col-lg-4 memberbox">
 			<div class="media">

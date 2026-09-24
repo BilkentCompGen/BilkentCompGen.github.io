@@ -9,6 +9,7 @@ instagram:
 image: /images/team/balanur.jpg
 linkedin: balanur-%C3%B6zercan-5b4bba95
 alumni: true
+alumni_leave_date: 2019-09-06
 ---
 
 ### Education

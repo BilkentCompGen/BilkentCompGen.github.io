@@ -8,6 +8,7 @@ website: https://alimgokkaya.com
 linkedin: alimgokkaya
 image: /images/team/alimg.jpg
 alumni: true
+alumni_leave_date: 2020-01-24
 ---
 
 ### Education

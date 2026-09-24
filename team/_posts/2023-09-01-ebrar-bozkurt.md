@@ -11,6 +11,7 @@ email: ebrar.bozkurt@bilkent.edu.tr
 image: /images/team/ebrar.jpg
 cv: 
 alumni: true
+alumni_leave_date: 2026-09-01
 ---
 
 

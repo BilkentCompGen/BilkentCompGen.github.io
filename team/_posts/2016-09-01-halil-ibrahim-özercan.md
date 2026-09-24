@@ -9,6 +9,7 @@ instagram: halilozercan
 image: /images/team/holosko.jpg
 linkedin: halilozercan
 alumni: true
+alumni_leave_date: 2019-09-06
 ---
 
 ### Education

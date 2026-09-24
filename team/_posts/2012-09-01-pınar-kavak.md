@@ -14,6 +14,7 @@ orcid:
 email: 
 image: /images/team/pinarkavak.jpg
 alumni: true
+alumni_leave_date: 2017-01-09
 ---
 
 ### Education

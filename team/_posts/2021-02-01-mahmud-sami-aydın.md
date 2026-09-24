@@ -9,6 +9,7 @@ email: sami.aydin@bilkent.edu.tr
 linkedin: mahmud-sami-aydin-5b2578148
 orcid: 0000-0003-2940-2700
 alumni: true
+alumni_leave_date: 2023-07-06
 ---
 
 <!-- <img style="height:1.5em;" src="/images/team/MSA_sq_dna.png?raw=true"/>-->

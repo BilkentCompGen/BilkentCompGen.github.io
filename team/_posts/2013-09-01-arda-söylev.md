@@ -11,6 +11,7 @@ website: https://asylvz.github.io
 email: asoylev@gmail.com
 image: /images/team/ardasoylev.png
 alumni: true
+alumni_leave_date: 2018-09-05
 ---
 
 ### Education

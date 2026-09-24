@@ -14,6 +14,7 @@ instagram:
 orcid: 
 email: 
 alumni: true
+alumni_leave_date: 2012-11-05
 ---
 
 ### Education

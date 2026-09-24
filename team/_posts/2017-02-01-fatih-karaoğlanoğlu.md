@@ -13,6 +13,7 @@ github: f0t1h
 twitter: fkaraoglan_cs
 image: /images/team/fatihk.jpg
 alumni: true
+alumni_leave_date: 2018-08-29
 cv: 
 ---
 
