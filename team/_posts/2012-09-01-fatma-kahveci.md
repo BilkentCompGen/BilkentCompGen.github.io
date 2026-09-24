@@ -8,7 +8,7 @@ scholar: Icdr4p0AAAAJ&hl=en
 orcid: 0000-0003-3096-1753
 image: /images/team/fatma.jpeg
 alumni: true
-alumni_leave_date: 2014-08-25
+alumni_leave_date: 2021-02-01
 ---
 
 ### Education
