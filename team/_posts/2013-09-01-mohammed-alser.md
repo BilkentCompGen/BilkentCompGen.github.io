@@ -15,6 +15,7 @@ email: alserm@ethz.ch
 image: /images/team/alser.png
 cv: 
 alumni: true
+alumni_leave_date: 2018-06-08
 ---
 I am leading the bioinformatics research group at the [SAFARI research group](https://safari.ethz.ch), at ETH Zurich, since September 2018.
 

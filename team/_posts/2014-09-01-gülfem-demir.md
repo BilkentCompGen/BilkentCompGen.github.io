@@ -15,6 +15,7 @@ email:
 image: /images/team/gulfem.jpg
 cv: 
 alumni: true
+alumni_leave_date: 2017-03-20
 ---
 
 ### Education

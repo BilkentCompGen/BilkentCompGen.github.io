@@ -8,6 +8,7 @@ image: /images/team/crazy_hamburger.jpeg
 orcid: 0000-0003-1231-4712
 email: oyavvuz.ozturk@gmail.com
 alumni: true
+alumni_leave_date: 2025-09-16
 ---
 
 <img style="height:1.5em;" src="/images/team/ÖYÖ.png?raw=true"/>  I'm a Master. Of what, you ask? Not anything of relevance.

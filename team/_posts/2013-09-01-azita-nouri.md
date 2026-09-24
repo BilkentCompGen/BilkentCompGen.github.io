@@ -13,6 +13,7 @@ email: azita.nouri@rutgers.edu
 image: /images/team/azita.jpg
 cv: 
 alumni: true
+alumni_leave_date: 2019-07-27
 ---
 
 ### Education

@@ -10,6 +10,7 @@ linkedin: mzrasekh
 orcid: 0000-0003-0046-158X
 email: marzie.rasekh@gmail.com
 alumni: true
+alumni_leave_date: 2015-07-28
 ---
 
 ### Education

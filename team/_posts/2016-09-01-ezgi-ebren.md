@@ -15,6 +15,7 @@ email:
 image: /images/team/ezgiebren.jpeg
 cv: 
 alumni: true
+alumni_leave_date: 2020-12-14
 ---
 
 ### Education
