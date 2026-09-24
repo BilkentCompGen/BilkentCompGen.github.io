@@ -142,6 +142,11 @@ layout: default
 			<div class="smallhead">
 				{{ member.position }}
 			</div>
+			{% if member.alumni_leave_date %}
+			<div class="note">
+				Left the group on {{ member.alumni_leave_date | date: "%B %-d, %Y" }}
+			</div>
+			{% endif %}
 		</div>
 		</br>
 		</br>
