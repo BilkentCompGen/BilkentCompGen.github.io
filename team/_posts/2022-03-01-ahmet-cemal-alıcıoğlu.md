@@ -14,6 +14,7 @@ email:
 image: /images/team/ahmetcemal.jpg
 cv: 
 alumni: true
+alumni_leave_date: 2022-06-01
 ---
 
 ### Education

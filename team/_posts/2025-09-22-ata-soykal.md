@@ -11,6 +11,7 @@ image: /images/team/stickfig.png
 orcid:
 cv: 
 alumni: true
+alumni_leave_date: 2026-06-05
 ---
 
 

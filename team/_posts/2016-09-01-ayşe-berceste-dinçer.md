@@ -14,6 +14,7 @@ orcid:
 email: 
 image: /images/team/stickfig.png
 alumni: true
+alumni_leave_date: 2017-02-01
 ---
 
 ### Education

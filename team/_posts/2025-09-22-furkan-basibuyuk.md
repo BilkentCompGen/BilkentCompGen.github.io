@@ -11,6 +11,7 @@ image: /images/team/furkanbasibuyuk.jpeg
 orcid: 0009-0008-4452-7492
 cv: 
 alumni: true
+alumni_leave_date: 2026-06-05
 ---
 
 

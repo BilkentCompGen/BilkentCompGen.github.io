@@ -15,6 +15,7 @@ email:
 image: /images/team/atalay.jpg
 cv: 
 alumni: true
+alumni_leave_date: 2014-06-01
 ---
 
 ### Education

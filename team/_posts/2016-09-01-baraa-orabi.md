@@ -9,6 +9,7 @@ linkedin: baraaorabi
 image: /images/team/orabi.jpg
 cv: 
 alumni: true
+alumni_leave_date: 2017-08-01
 ---
 
 ### Education

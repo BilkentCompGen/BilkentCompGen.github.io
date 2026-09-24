@@ -7,6 +7,7 @@ linkedin: sebnem-turkoglu/
 email: sebnemturkoglu4@gmail.com
 image: /images/team/sebnemturkoglu.jpg
 alumni: true
+alumni_leave_date: 2024-02-01
 ---
 
 Şebnem graduated with a B.Sc. in Computer Science in Jnauary 2024.

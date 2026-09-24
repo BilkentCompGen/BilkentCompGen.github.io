@@ -14,6 +14,7 @@ email:
 image: /images/team/naisila.jpg
 cv: 
 alumni: true
+alumni_leave_date: 2020-06-01
 ---
 
 ### Education

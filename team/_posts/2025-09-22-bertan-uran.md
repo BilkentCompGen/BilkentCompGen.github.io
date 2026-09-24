@@ -11,6 +11,7 @@ image: /images/team/bertanuran.jpg
 orcid:
 cv: 
 alumni: true
+alumni_leave_date: 2026-08-01
 ---
 
 

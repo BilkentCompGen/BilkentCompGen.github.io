@@ -9,6 +9,7 @@ image: /images/team/stickfig.png
 alumni: false
 orcid: 0000-0000-0000-0000
 alumni: true
+alumni_leave_date: 2025-02-01
 
 ---
 

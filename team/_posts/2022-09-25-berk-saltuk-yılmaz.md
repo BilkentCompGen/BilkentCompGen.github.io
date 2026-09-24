@@ -8,6 +8,7 @@ instagram: berksaltukyilmaz
 email: saltuk.yilmaz@ug.bilkent.edu.tr
 image: /images/team/berksaltuk.png
 alumni: true
+alumni_leave_date: 2024-02-01
 ---
 
 

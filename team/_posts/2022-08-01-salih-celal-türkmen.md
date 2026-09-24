@@ -9,6 +9,7 @@ orcid: 0000-0002-4970-0548
 email: salih.turkmen@ug.bilkent.edu.tr
 image: /images/team/celaltrk.png
 alumni: true
+alumni_leave_date: 2024-02-01
 ---
 
 <!--

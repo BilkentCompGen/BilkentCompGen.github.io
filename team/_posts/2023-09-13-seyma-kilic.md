@@ -8,6 +8,7 @@ instagram:
 email: 
 image: /images/team/seyma.png
 alumni: true
+alumni_leave_date: 2026-06-05
 ---
 
 I am a Computer Science student at Bilkent University.

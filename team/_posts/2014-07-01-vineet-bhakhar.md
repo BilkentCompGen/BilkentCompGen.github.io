@@ -15,6 +15,7 @@ email:
 image: /images/team/vineet.jpg
 cv: 
 alumni: true
+alumni_leave_date: 2014-08-01
 ---
 
 ### Education
