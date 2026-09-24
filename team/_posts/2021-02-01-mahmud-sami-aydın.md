@@ -12,7 +12,6 @@ alumni: true
 alumni_leave_date: 2023-07-06
 ---
 
-<!-- <img style="height:1.5em;" src="/images/team/MSA_sq_dna.png?raw=true"/>-->
 My favorite xkcd comic is [Kolmogorov Directions](https://xkcd.com/1155/)
 
 ### Education

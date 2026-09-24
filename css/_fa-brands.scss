@@ -1,0 +1,25 @@
+// Minimal Font Awesome 6 Brands support, for icons missing from
+// Font Awesome 4.7 (e.g. ORCID). Font files: css/font/fa-brands-400.*
+
+@font-face {
+  font-family: 'Font Awesome 6 Brands';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url('#{$fa-font-path}/fa-brands-400.woff2') format('woff2'),
+    url('#{$fa-font-path}/fa-brands-400.ttf') format('truetype');
+}
+
+.fa-brands {
+  display: inline-block;
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+  font-style: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-orcid:before { content: "\f8d2"; }

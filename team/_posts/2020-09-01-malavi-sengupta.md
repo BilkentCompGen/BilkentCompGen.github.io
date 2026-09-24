@@ -17,7 +17,6 @@ alumni: true
 alumni_leave_date: 2023-01-01
 ---
 
-<!--<img style="height:1.5em;" src="/images/team/MS.png?raw=true"/>  -->
 Malavi was a Sancar Fellow, and she worked on the salt water and alkali water adaptation of A. tarichi.
 
 ### Education
