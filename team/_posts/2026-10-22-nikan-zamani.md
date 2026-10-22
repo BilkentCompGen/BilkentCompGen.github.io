@@ -8,7 +8,7 @@ scholar:
 image: /images/team/nikan.JPG
 linkedin: nikan-zamani
 alumni: false
-orcid: 
+orcid: 0000-0003-2286-5147
 ---
 
 ### Education
